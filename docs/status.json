@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-25T14:48:00+00:00",
+  "updated_at": "2025-08-25T14:59:35+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 162,
     "fail_atr": 7,
-    "fail_structure": 56,
+    "fail_structure": 57,
     "fail_expansion": 21,
     "fail_trigger": 21,
-    "fail_market_regime": 78,
+    "fail_market_regime": 77,
     "fail_volume": 0,
     "fail_rsi": 3,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "LINK/USDT",
       "SEI/USDT",
       "LTC/USDT",
-      "HYPE/USDT"
+      "FARTCOIN/USDT"
     ]
   }
 }
