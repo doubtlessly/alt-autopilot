@@ -1,22 +1,24 @@
 {
-  "updated_at": "2025-08-25T10:04:02+00:00",
+  "updated_at": "2025-08-25T10:49:01+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
-      1.5,
-      30.0
+      1.0,
+      40.0
     ],
-    "min_confidence": 65,
-    "near_pct": 0.015
+    "min_confidence": 60,
+    "near_pct": 0.02,
+    "rs_lookback_4h": 18,
+    "rs_edge": 0.0
   },
   "stats": {
     "symbols_total": 1071,
     "universe_size": 200,
-    "scanned": 189,
-    "fail_atr": 51,
-    "fail_structure": 97,
-    "fail_expansion": 41,
-    "fail_trigger": 0,
+    "scanned": 161,
+    "fail_atr": 9,
+    "fail_structure": 109,
+    "fail_expansion": 43,
+    "fail_trigger": 43,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
