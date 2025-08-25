@@ -1,24 +1,34 @@
 {
-  "updated_at": "2025-08-25T11:21:18+00:00",
+  "updated_at": "2025-08-25T11:42:16+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
       1.0,
       40.0
     ],
-    "min_confidence": 60,
+    "min_confidence": 70,
     "near_pct": 0.02,
     "rs_lookback_4h": 18,
-    "rs_edge": 0.0
+    "rs_edge": 0.0,
+    "donchian_lookback": 20,
+    "min_trend_strength": 0.001,
+    "volume_surge_threshold": 1.6,
+    "breakout_confirmation_bars": 2,
+    "retest_threshold": 1.002,
+    "stop_atr_multiplier": 1.2,
+    "rsi_divergence_lookback": 20
   },
   "stats": {
     "symbols_total": 1071,
     "universe_size": 200,
-    "scanned": 161,
-    "fail_atr": 11,
-    "fail_structure": 106,
-    "fail_expansion": 44,
-    "fail_trigger": 44,
+    "scanned": 160,
+    "fail_atr": 5,
+    "fail_structure": 42,
+    "fail_expansion": 30,
+    "fail_trigger": 30,
+    "fail_market_regime": 82,
+    "fail_volume": 3,
+    "fail_rsi": 3,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -32,8 +42,8 @@
       "XMR/USDT",
       "LINK/USDT",
       "SEI/USDT",
-      "FARTCOIN/USDT",
-      "HYPE/USDT"
+      "LTC/USDT",
+      "FARTCOIN/USDT"
     ]
   }
 }
