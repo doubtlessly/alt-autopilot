@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-27T13:47:25+00:00",
+  "updated_at": "2025-08-27T13:58:34+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 158,
     "fail_atr": 12,
     "fail_structure": 26,
-    "fail_expansion": 21,
-    "fail_trigger": 21,
-    "fail_market_regime": 98,
+    "fail_expansion": 18,
+    "fail_trigger": 18,
+    "fail_market_regime": 100,
     "fail_volume": 4,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -39,8 +39,8 @@
       "XMR/USDT",
       "ADA/USDT",
       "SEI/USDT",
-      "HYPE/USDT",
       "LINK/USDT",
+      "HYPE/USDT",
       "DOGE/USDT",
       "SUI/USDT",
       "FARTCOIN/USDT"
