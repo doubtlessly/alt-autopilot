@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-28T14:46:58+00:00",
+  "updated_at": "2025-08-28T14:58:28+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 161,
     "fail_atr": 9,
-    "fail_structure": 14,
-    "fail_expansion": 29,
-    "fail_trigger": 29,
+    "fail_structure": 15,
+    "fail_expansion": 27,
+    "fail_trigger": 27,
     "fail_market_regime": 108,
     "fail_volume": 2,
     "fail_rsi": 0,
@@ -41,8 +41,8 @@
       "CRO/USDT",
       "LINK/USDT",
       "SEI/USDT",
-      "DOGE/USDT",
       "HYPE/USDT",
+      "DOGE/USDT",
       "SUI/USDT"
     ]
   }
