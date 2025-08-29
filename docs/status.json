@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-29T14:57:01+00:00",
+  "updated_at": "2025-08-29T15:22:39+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 19,
     "fail_trigger": 19,
     "fail_market_regime": 113,
-    "fail_volume": 1,
+    "fail_volume": 2,
     "fail_rsi": 2,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "LINK/USDT",
       "SEI/USDT",
       "XMR/USDT",
-      "CRO/USDT",
       "ENA/USDT",
+      "CRO/USDT",
       "HYPE/USDT",
       "DOGE/USDT"
     ]
