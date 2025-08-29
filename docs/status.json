@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-29T15:42:52+00:00",
+  "updated_at": "2025-08-29T15:54:16+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,8 +41,8 @@
       "SEI/USDT",
       "XMR/USDT",
       "ENA/USDT",
-      "CRO/USDT",
       "HYPE/USDT",
+      "CRO/USDT",
       "DOGE/USDT"
     ]
   }
