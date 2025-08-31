@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-31T16:25:50+00:00",
+  "updated_at": "2025-08-31T16:45:43+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,11 +22,11 @@
     "symbols_total": 1064,
     "universe_size": 200,
     "scanned": 155,
-    "fail_atr": 22,
-    "fail_structure": 10,
+    "fail_atr": 21,
+    "fail_structure": 9,
     "fail_expansion": 16,
-    "fail_trigger": 16,
-    "fail_market_regime": 107,
+    "fail_trigger": 17,
+    "fail_market_regime": 108,
     "fail_volume": 1,
     "fail_rsi": 2,
     "passed_signals": 0,
@@ -40,8 +40,8 @@
       "XMR/USDT",
       "LINK/USDT",
       "SEI/USDT",
-      "SUI/USDT",
       "EGL1/USDT",
+      "SUI/USDT",
       "FARTCOIN/USDT",
       "ENA/USDT"
     ]
