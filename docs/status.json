@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-31T18:49:07+00:00",
+  "updated_at": "2025-08-31T19:18:19+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 18,
     "fail_trigger": 18,
     "fail_market_regime": 108,
-    "fail_volume": 3,
+    "fail_volume": 5,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "XMR/USDT",
       "SEI/USDT",
       "LINK/USDT",
-      "EGL1/USDT",
       "SUI/USDT",
+      "EGL1/USDT",
       "FARTCOIN/USDT",
       "ENA/USDT"
     ]
