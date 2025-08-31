@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-31T11:54:12+00:00",
+  "updated_at": "2025-08-31T12:41:34+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -25,7 +25,7 @@
     "fail_atr": 22,
     "fail_structure": 9,
     "fail_expansion": 16,
-    "fail_trigger": 17,
+    "fail_trigger": 16,
     "fail_market_regime": 106,
     "fail_volume": 2,
     "fail_rsi": 0,
@@ -41,8 +41,8 @@
       "LINK/USDT",
       "SEI/USDT",
       "SUI/USDT",
-      "FARTCOIN/USDT",
       "EGL1/USDT",
+      "FARTCOIN/USDT",
       "ENA/USDT"
     ]
   }
