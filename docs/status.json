@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-01T19:40:51+00:00",
+  "updated_at": "2025-09-01T19:54:17+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 160,
     "fail_atr": 9,
-    "fail_structure": 17,
-    "fail_expansion": 5,
-    "fail_trigger": 5,
+    "fail_structure": 18,
+    "fail_expansion": 4,
+    "fail_trigger": 4,
     "fail_market_regime": 128,
     "fail_volume": 0,
     "fail_rsi": 0,
@@ -40,8 +40,8 @@
       "XMR/USDT",
       "SEI/USDT",
       "LINK/USDT",
-      "SUI/USDT",
       "WLFI/USDT",
+      "SUI/USDT",
       "TRUMP/USDT",
       "DOGE/USDT"
     ]
