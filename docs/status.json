@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-01T05:45:13+00:00",
+  "updated_at": "2025-09-01T05:56:55+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 163,
     "fail_atr": 9,
-    "fail_structure": 15,
-    "fail_expansion": 12,
-    "fail_trigger": 12,
-    "fail_market_regime": 127,
+    "fail_structure": 16,
+    "fail_expansion": 10,
+    "fail_trigger": 10,
+    "fail_market_regime": 128,
     "fail_volume": 2,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -37,8 +37,8 @@
       "SOL/USDT",
       "XRP/USDT",
       "ADA/USDT",
-      "XMR/USDT",
       "SEI/USDT",
+      "XMR/USDT",
       "LINK/USDT",
       "SUI/USDT",
       "TRUMP/USDT",
