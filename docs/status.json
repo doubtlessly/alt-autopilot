@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-03T16:29:13+00:00",
+  "updated_at": "2025-09-03T16:49:10+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,11 +23,11 @@
     "universe_size": 200,
     "scanned": 157,
     "fail_atr": 10,
-    "fail_structure": 9,
+    "fail_structure": 8,
     "fail_expansion": 12,
     "fail_trigger": 12,
-    "fail_market_regime": 125,
-    "fail_volume": 2,
+    "fail_market_regime": 126,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,7 +42,7 @@
       "ENA/USDT",
       "SUI/USDT",
       "FARTCOIN/USDT",
-      "WLFI/USDT",
+      "HYPE/USDT",
       "SOMI/USDT"
     ]
   }
