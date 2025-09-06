@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-06T18:28:40+00:00",
+  "updated_at": "2025-09-06T18:45:58+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,10 +24,10 @@
     "scanned": 159,
     "fail_atr": 15,
     "fail_structure": 3,
-    "fail_expansion": 15,
+    "fail_expansion": 14,
     "fail_trigger": 15,
     "fail_market_regime": 126,
-    "fail_volume": 2,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -37,8 +37,8 @@
       "SOL/USDT",
       "XRP/USDT",
       "ENA/USDT",
-      "XMR/USDT",
       "SOMI/USDT",
+      "XMR/USDT",
       "ADA/USDT",
       "LINK/USDT",
       "HYPE/USDT",
