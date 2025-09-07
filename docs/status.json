@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-07T12:40:30+00:00",
+  "updated_at": "2025-09-07T13:06:13+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 15,
     "fail_trigger": 15,
     "fail_market_regime": 125,
-    "fail_volume": 1,
+    "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -43,7 +43,7 @@
       "ENA/USDT",
       "ADA/USDT",
       "LINK/USDT",
-      "HYPE/USDT"
+      "SUI/USDT"
     ]
   }
 }
