@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-07T14:19:33+00:00",
+  "updated_at": "2025-09-07T14:41:03+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,10 +24,10 @@
     "scanned": 160,
     "fail_atr": 17,
     "fail_structure": 3,
-    "fail_expansion": 17,
-    "fail_trigger": 17,
-    "fail_market_regime": 123,
-    "fail_volume": 1,
+    "fail_expansion": 16,
+    "fail_trigger": 16,
+    "fail_market_regime": 124,
+    "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,10 +40,10 @@
       "XMR/USDT",
       "WLFI/USDT",
       "TRX/USDT",
-      "ENA/USDT",
       "ADA/USDT",
+      "ENA/USDT",
       "LINK/USDT",
-      "SUI/USDT"
+      "DOGE/USDT"
     ]
   }
 }
