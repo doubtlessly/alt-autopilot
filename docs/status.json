@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-09T22:21:19+00:00",
+  "updated_at": "2025-09-09T22:41:54+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,8 +27,8 @@
     "fail_expansion": 27,
     "fail_trigger": 27,
     "fail_market_regime": 116,
-    "fail_volume": 15,
-    "fail_rsi": 1,
+    "fail_volume": 11,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -38,8 +38,8 @@
       "XRP/USDT",
       "WLD/USDT",
       "ENA/USDT",
-      "DOGE/USDT",
       "XMR/USDT",
+      "DOGE/USDT",
       "ADA/USDT",
       "HYPE/USDT",
       "OPEN/USDT",
