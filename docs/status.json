@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-11T13:17:04+00:00",
+  "updated_at": "2025-09-11T13:37:52+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,8 +22,8 @@
     "symbols_total": 1078,
     "universe_size": 200,
     "scanned": 153,
-    "fail_atr": 19,
-    "fail_structure": 2,
+    "fail_atr": 18,
+    "fail_structure": 3,
     "fail_expansion": 32,
     "fail_trigger": 32,
     "fail_market_regime": 100,
@@ -40,9 +40,9 @@
       "XMR/USDT",
       "AVAX/USDT",
       "ENA/USDT",
-      "OPEN/USDT",
       "ADA/USDT",
       "LINEA/USDT",
+      "OPEN/USDT",
       "HYPE/USDT"
     ]
   }
