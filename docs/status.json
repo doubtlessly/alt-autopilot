@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-11T09:54:48+00:00",
+  "updated_at": "2025-09-11T10:23:57+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -19,15 +19,15 @@
     "rsi_divergence_lookback": 20
   },
   "stats": {
-    "symbols_total": 1077,
+    "symbols_total": 1078,
     "universe_size": 200,
-    "scanned": 156,
+    "scanned": 155,
     "fail_atr": 25,
     "fail_structure": 0,
     "fail_expansion": 29,
     "fail_trigger": 29,
-    "fail_market_regime": 102,
-    "fail_volume": 3,
+    "fail_market_regime": 101,
+    "fail_volume": 9,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -41,9 +41,9 @@
       "AVAX/USDT",
       "OPEN/USDT",
       "ENA/USDT",
-      "SOMI/USDT",
       "LINEA/USDT",
-      "AKE/USDT"
+      "SOMI/USDT",
+      "ADA/USDT"
     ]
   }
 }
