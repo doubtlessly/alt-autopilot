@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-12T14:22:24+00:00",
+  "updated_at": "2025-09-12T14:43:55+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,13 +21,13 @@
   "stats": {
     "symbols_total": 1078,
     "universe_size": 200,
-    "scanned": 154,
-    "fail_atr": 33,
-    "fail_structure": 2,
-    "fail_expansion": 28,
-    "fail_trigger": 28,
-    "fail_market_regime": 89,
-    "fail_volume": 5,
+    "scanned": 155,
+    "fail_atr": 32,
+    "fail_structure": 4,
+    "fail_expansion": 30,
+    "fail_trigger": 30,
+    "fail_market_regime": 88,
+    "fail_volume": 3,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "ADA/USDT",
       "OPEN/USDT",
       "HOLO/USDT",
-      "ENA/USDT",
-      "FARTCOIN/USDT"
+      "SUI/USDT",
+      "ENA/USDT"
     ]
   }
 }
