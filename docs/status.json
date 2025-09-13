@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-13T19:40:29+00:00",
+  "updated_at": "2025-09-13T19:54:04+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,10 +24,10 @@
     "scanned": 155,
     "fail_atr": 13,
     "fail_structure": 3,
-    "fail_expansion": 55,
-    "fail_trigger": 55,
-    "fail_market_regime": 81,
-    "fail_volume": 12,
+    "fail_expansion": 56,
+    "fail_trigger": 56,
+    "fail_market_regime": 80,
+    "fail_volume": 9,
     "fail_rsi": 3,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -43,7 +43,7 @@
       "SUI/USDT",
       "AVAX/USDT",
       "SOMI/USDT",
-      "PEPE/USDT"
+      "HIFI/USDT"
     ]
   }
 }
