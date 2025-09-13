@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-13T07:19:41+00:00",
+  "updated_at": "2025-09-13T07:40:32+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,7 +22,7 @@
     "symbols_total": 1078,
     "universe_size": 200,
     "scanned": 157,
-    "fail_atr": 35,
+    "fail_atr": 34,
     "fail_structure": 0,
     "fail_expansion": 36,
     "fail_trigger": 36,
@@ -43,7 +43,7 @@
       "ADA/USDT",
       "AVAX/USDT",
       "HIFI/USDT",
-      "HOLO/USDT"
+      "SOMI/USDT"
     ]
   }
 }
