@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-13T11:41:39+00:00",
+  "updated_at": "2025-09-13T11:54:54+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,10 +22,10 @@
     "symbols_total": 1078,
     "universe_size": 200,
     "scanned": 156,
-    "fail_atr": 36,
-    "fail_structure": 2,
-    "fail_expansion": 35,
-    "fail_trigger": 35,
+    "fail_atr": 35,
+    "fail_structure": 1,
+    "fail_expansion": 38,
+    "fail_trigger": 38,
     "fail_market_regime": 80,
     "fail_volume": 6,
     "fail_rsi": 1,
@@ -42,8 +42,8 @@
       "ADA/USDT",
       "AVAX/USDT",
       "SUI/USDT",
-      "HIFI/USDT",
-      "SOMI/USDT"
+      "SOMI/USDT",
+      "HIFI/USDT"
     ]
   }
 }
