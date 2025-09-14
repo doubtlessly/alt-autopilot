@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-14T18:45:47+00:00",
+  "updated_at": "2025-09-14T18:57:07+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -26,16 +26,16 @@
     "fail_structure": 27,
     "fail_expansion": 37,
     "fail_trigger": 37,
-    "fail_market_regime": 72,
-    "fail_volume": 8,
-    "fail_rsi": 3,
+    "fail_market_regime": 71,
+    "fail_volume": 6,
+    "fail_rsi": 2,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
       "ETH/USDT",
       "DOGE/USDT",
-      "BTC/USDT",
       "SOL/USDT",
+      "BTC/USDT",
       "XRP/USDT",
       "XMR/USDT",
       "ADA/USDT",
