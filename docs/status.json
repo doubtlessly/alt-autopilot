@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-14T11:54:51+00:00",
+  "updated_at": "2025-09-14T12:40:23+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,14 +21,14 @@
   "stats": {
     "symbols_total": 1078,
     "universe_size": 200,
-    "scanned": 158,
+    "scanned": 160,
     "fail_atr": 24,
-    "fail_structure": 10,
-    "fail_expansion": 48,
-    "fail_trigger": 48,
-    "fail_market_regime": 76,
-    "fail_volume": 7,
-    "fail_rsi": 5,
+    "fail_structure": 16,
+    "fail_expansion": 42,
+    "fail_trigger": 42,
+    "fail_market_regime": 77,
+    "fail_volume": 5,
+    "fail_rsi": 2,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -43,7 +43,7 @@
       "SUI/USDT",
       "PUMP/USDT",
       "AVAX/USDT",
-      "FARTCOIN/USDT"
+      "AVNT/USDT"
     ]
   }
 }
