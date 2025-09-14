@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-14T04:55:36+00:00",
+  "updated_at": "2025-09-14T05:21:21+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,13 +22,13 @@
     "symbols_total": 1078,
     "universe_size": 200,
     "scanned": 155,
-    "fail_atr": 19,
-    "fail_structure": 7,
-    "fail_expansion": 52,
-    "fail_trigger": 53,
+    "fail_atr": 27,
+    "fail_structure": 4,
+    "fail_expansion": 47,
+    "fail_trigger": 48,
     "fail_market_regime": 76,
-    "fail_volume": 7,
-    "fail_rsi": 4,
+    "fail_volume": 11,
+    "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -43,7 +43,7 @@
       "SUI/USDT",
       "AVAX/USDT",
       "UB/USDT",
-      "SOMI/USDT"
+      "FARTCOIN/USDT"
     ]
   }
 }
