@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-15T13:56:56+00:00",
+  "updated_at": "2025-09-15T14:23:54+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,11 +21,11 @@
   "stats": {
     "symbols_total": 1081,
     "universe_size": 200,
-    "scanned": 153,
+    "scanned": 152,
     "fail_atr": 10,
     "fail_structure": 52,
-    "fail_expansion": 21,
-    "fail_trigger": 21,
+    "fail_expansion": 20,
+    "fail_trigger": 20,
     "fail_market_regime": 70,
     "fail_volume": 2,
     "fail_rsi": 1,
@@ -43,7 +43,7 @@
       "AVAX/USDT",
       "SUI/USDT",
       "HOLO/USDT",
-      "PUMP/USDT"
+      "SOMI/USDT"
     ]
   }
 }
