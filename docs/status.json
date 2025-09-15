@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-15T20:54:53+00:00",
+  "updated_at": "2025-09-15T21:21:28+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,8 +22,8 @@
     "symbols_total": 1082,
     "universe_size": 200,
     "scanned": 152,
-    "fail_atr": 15,
-    "fail_structure": 58,
+    "fail_atr": 19,
+    "fail_structure": 54,
     "fail_expansion": 10,
     "fail_trigger": 10,
     "fail_market_regime": 69,
@@ -41,9 +41,9 @@
       "XMR/USDT",
       "ADA/USDT",
       "AVAX/USDT",
-      "HOLO/USDT",
       "ENA/USDT",
-      "SUI/USDT"
+      "HOLO/USDT",
+      "SOMI/USDT"
     ]
   }
 }
