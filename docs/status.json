@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-17T21:54:59+00:00",
+  "updated_at": "2025-09-17T22:20:22+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,13 +21,13 @@
   "stats": {
     "symbols_total": 1086,
     "universe_size": 200,
-    "scanned": 150,
+    "scanned": 151,
     "fail_atr": 13,
-    "fail_structure": 21,
-    "fail_expansion": 35,
-    "fail_trigger": 39,
+    "fail_structure": 12,
+    "fail_expansion": 29,
+    "fail_trigger": 35,
     "fail_market_regime": 71,
-    "fail_volume": 3,
+    "fail_volume": 9,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "SUI/USDT",
       "HYPE/USDT",
       "SOMI/USDT",
-      "ZKC/USDT",
-      "OPEN/USDT"
+      "OPEN/USDT",
+      "FARTCOIN/USDT"
     ]
   }
 }
