@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-18T07:54:13+00:00",
+  "updated_at": "2025-09-18T08:30:17+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -19,16 +19,16 @@
     "rsi_divergence_lookback": 20
   },
   "stats": {
-    "symbols_total": 1086,
+    "symbols_total": 1085,
     "universe_size": 200,
     "scanned": 150,
-    "fail_atr": 8,
-    "fail_structure": 6,
-    "fail_expansion": 62,
-    "fail_trigger": 63,
+    "fail_atr": 9,
+    "fail_structure": 5,
+    "fail_expansion": 61,
+    "fail_trigger": 64,
     "fail_market_regime": 69,
-    "fail_volume": 9,
-    "fail_rsi": 2,
+    "fail_volume": 16,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -42,8 +42,8 @@
       "HYPE/USDT",
       "SUI/USDT",
       "AVAX/USDT",
-      "ZKC/USDT",
-      "FARTCOIN/USDT"
+      "LINK/USDT",
+      "ZKC/USDT"
     ]
   }
 }
