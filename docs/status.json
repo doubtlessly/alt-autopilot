@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-19T15:43:49+00:00",
+  "updated_at": "2025-09-19T15:55:43+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 159,
     "fail_atr": 17,
     "fail_structure": 22,
-    "fail_expansion": 47,
-    "fail_trigger": 47,
+    "fail_expansion": 46,
+    "fail_trigger": 46,
     "fail_market_regime": 73,
     "fail_volume": 2,
     "fail_rsi": 3,
@@ -40,8 +40,8 @@
       "ADA/USDT",
       "AVAX/USDT",
       "XMR/USDT",
-      "SUI/USDT",
       "HOLO/USDT",
+      "SUI/USDT",
       "LINK/USDT",
       "HYPE/USDT"
     ]
