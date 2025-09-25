@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-25T21:55:00+00:00",
+  "updated_at": "2025-09-25T22:20:40+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,14 +21,14 @@
   "stats": {
     "symbols_total": 1085,
     "universe_size": 200,
-    "scanned": 159,
+    "scanned": 158,
     "fail_atr": 3,
-    "fail_structure": 28,
-    "fail_expansion": 8,
-    "fail_trigger": 8,
-    "fail_market_regime": 119,
-    "fail_volume": 5,
-    "fail_rsi": 1,
+    "fail_structure": 27,
+    "fail_expansion": 10,
+    "fail_trigger": 10,
+    "fail_market_regime": 118,
+    "fail_volume": 6,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
