@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-25T08:51:37+00:00",
+  "updated_at": "2025-09-25T09:25:50+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,14 +21,14 @@
   "stats": {
     "symbols_total": 1085,
     "universe_size": 200,
-    "scanned": 158,
+    "scanned": 157,
     "fail_atr": 6,
-    "fail_structure": 21,
-    "fail_expansion": 18,
-    "fail_trigger": 18,
-    "fail_market_regime": 113,
-    "fail_volume": 2,
-    "fail_rsi": 1,
+    "fail_structure": 20,
+    "fail_expansion": 19,
+    "fail_trigger": 19,
+    "fail_market_regime": 112,
+    "fail_volume": 3,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -42,8 +42,8 @@
       "DOGE/USDT",
       "AVNT/USDT",
       "ADA/USDT",
-      "LINEA/USDT",
-      "0G/USDT"
+      "0G/USDT",
+      "LINEA/USDT"
     ]
   }
 }
