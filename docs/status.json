@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-28T07:20:26+00:00",
+  "updated_at": "2025-09-28T07:40:04+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 158,
     "fail_atr": 5,
     "fail_structure": 11,
-    "fail_expansion": 27,
-    "fail_trigger": 27,
+    "fail_expansion": 26,
+    "fail_trigger": 26,
     "fail_market_regime": 115,
     "fail_volume": 7,
     "fail_rsi": 2,
@@ -43,7 +43,7 @@
       "ASTER/USDT",
       "0G/USDT",
       "AVAX/USDT",
-      "ADA/USDT"
+      "HYPE/USDT"
     ]
   }
 }
