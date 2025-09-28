@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-28T07:40:04+00:00",
+  "updated_at": "2025-09-28T07:53:47+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,7 +23,7 @@
     "universe_size": 200,
     "scanned": 158,
     "fail_atr": 5,
-    "fail_structure": 11,
+    "fail_structure": 12,
     "fail_expansion": 26,
     "fail_trigger": 26,
     "fail_market_regime": 115,
@@ -35,8 +35,8 @@
       "ETH/USDT",
       "BTC/USDT",
       "XRP/USDT",
-      "XPL/USDT",
       "SOL/USDT",
+      "XPL/USDT",
       "XMR/USDT",
       "HOLO/USDT",
       "MIRA/USDT",
