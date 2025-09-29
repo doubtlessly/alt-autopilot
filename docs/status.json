@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-29T11:54:51+00:00",
+  "updated_at": "2025-09-29T12:48:32+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -19,16 +19,16 @@
     "rsi_divergence_lookback": 20
   },
   "stats": {
-    "symbols_total": 1082,
+    "symbols_total": 1083,
     "universe_size": 200,
     "scanned": 159,
-    "fail_atr": 6,
-    "fail_structure": 6,
-    "fail_expansion": 32,
-    "fail_trigger": 32,
-    "fail_market_regime": 115,
-    "fail_volume": 3,
-    "fail_rsi": 2,
+    "fail_atr": 7,
+    "fail_structure": 10,
+    "fail_expansion": 25,
+    "fail_trigger": 25,
+    "fail_market_regime": 116,
+    "fail_volume": 1,
+    "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -40,8 +40,8 @@
       "XMR/USDT",
       "MIRA/USDT",
       "0G/USDT",
-      "HYPE/USDT",
       "ASTER/USDT",
+      "HYPE/USDT",
       "ADA/USDT",
       "ZKC/USDT"
     ]
