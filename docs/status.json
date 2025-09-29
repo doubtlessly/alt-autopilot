@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-29T05:24:18+00:00",
+  "updated_at": "2025-09-29T05:44:08+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -26,7 +26,7 @@
     "fail_structure": 7,
     "fail_expansion": 30,
     "fail_trigger": 30,
-    "fail_market_regime": 115,
+    "fail_market_regime": 114,
     "fail_volume": 7,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -41,8 +41,8 @@
       "MIRA/USDT",
       "0G/USDT",
       "HYPE/USDT",
-      "HOLO/USDT",
       "ASTER/USDT",
+      "HOLO/USDT",
       "ADA/USDT"
     ]
   }
