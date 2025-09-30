@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-30T09:28:16+00:00",
+  "updated_at": "2025-09-30T09:45:16+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 21,
     "fail_trigger": 21,
     "fail_market_regime": 119,
-    "fail_volume": 3,
+    "fail_volume": 2,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -41,8 +41,8 @@
       "XMR/USDT",
       "MIRA/USDT",
       "ADA/USDT",
-      "ASTER/USDT",
       "AVAX/USDT",
+      "0G/USDT",
       "BARD/USDT"
     ]
   }
