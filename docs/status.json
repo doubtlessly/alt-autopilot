@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-30T15:23:27+00:00",
+  "updated_at": "2025-09-30T15:43:14+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -36,14 +36,14 @@
       "BTC/USDT",
       "SOL/USDT",
       "XRP/USDT",
-      "FF/USDT",
       "XPL/USDT",
       "XMR/USDT",
+      "FF/USDT",
       "MIRA/USDT",
       "ADA/USDT",
       "0G/USDT",
       "AVAX/USDT",
-      "SEI/USDT"
+      "ASTER/USDT"
     ]
   }
 }
