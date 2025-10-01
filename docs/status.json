@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-01T22:42:50+00:00",
+  "updated_at": "2025-10-01T22:54:02+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -40,8 +40,8 @@
       "XPL/USDT",
       "ZEC/USDT",
       "ADA/USDT",
-      "EDEN/USDT",
       "0G/USDT",
+      "EDEN/USDT",
       "MIRA/USDT",
       "SUI/USDT"
     ]
