@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-01T04:27:18+00:00",
+  "updated_at": "2025-10-01T04:45:52+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,7 +23,7 @@
     "universe_size": 200,
     "scanned": 152,
     "fail_atr": 5,
-    "fail_structure": 18,
+    "fail_structure": 19,
     "fail_expansion": 16,
     "fail_trigger": 16,
     "fail_market_regime": 111,
@@ -39,8 +39,8 @@
       "XPL/USDT",
       "XMR/USDT",
       "MIRA/USDT",
-      "FF/USDT",
       "EDEN/USDT",
+      "FF/USDT",
       "ADA/USDT",
       "ASTER/USDT",
       "SEI/USDT"
