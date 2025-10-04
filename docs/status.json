@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-04T10:22:00+00:00",
+  "updated_at": "2025-10-04T10:42:01+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 27,
     "fail_trigger": 27,
     "fail_market_regime": 100,
-    "fail_volume": 5,
+    "fail_volume": 3,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "ADA/USDT",
       "DOGE/USDT",
       "ASTER/USDT",
-      "ZEC/USDT",
       "XPL/USDT",
+      "ZEC/USDT",
       "BNB/USDT",
       "OPEN/USDT"
     ]
