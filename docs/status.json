@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-05T11:41:25+00:00",
+  "updated_at": "2025-10-05T11:54:39+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,8 +21,8 @@
   "stats": {
     "symbols_total": 1069,
     "universe_size": 200,
-    "scanned": 156,
-    "fail_atr": 14,
+    "scanned": 155,
+    "fail_atr": 13,
     "fail_structure": 4,
     "fail_expansion": 40,
     "fail_trigger": 40,
@@ -41,8 +41,8 @@
       "DOGE/USDT",
       "ADA/USDT",
       "2Z/USDT",
-      "MIRA/USDT",
       "ASTER/USDT",
+      "MIRA/USDT",
       "LTC/USDT"
     ]
   }
