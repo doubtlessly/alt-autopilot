@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-05T07:40:32+00:00",
+  "updated_at": "2025-10-05T07:54:20+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 158,
     "fail_atr": 24,
-    "fail_structure": 3,
+    "fail_structure": 1,
     "fail_expansion": 32,
-    "fail_trigger": 32,
+    "fail_trigger": 33,
     "fail_market_regime": 97,
     "fail_volume": 1,
     "fail_rsi": 0,
@@ -41,8 +41,8 @@
       "DOGE/USDT",
       "ADA/USDT",
       "MIRA/USDT",
-      "HOLO/USDT",
       "OPEN/USDT",
+      "HOLO/USDT",
       "2Z/USDT"
     ]
   }
