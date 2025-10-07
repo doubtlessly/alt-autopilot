@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-07T21:20:57+00:00",
+  "updated_at": "2025-10-07T21:40:41+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,11 +24,11 @@
     "scanned": 150,
     "fail_atr": 8,
     "fail_structure": 23,
-    "fail_expansion": 24,
-    "fail_trigger": 24,
-    "fail_market_regime": 94,
-    "fail_volume": 9,
-    "fail_rsi": 5,
+    "fail_expansion": 23,
+    "fail_trigger": 23,
+    "fail_market_regime": 95,
+    "fail_volume": 8,
+    "fail_rsi": 4,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -43,7 +43,7 @@
       "DOGE/USDT",
       "XPL/USDT",
       "LINK/USDT",
-      "ZEC/USDT"
+      "ASTER/USDT"
     ]
   }
 }
