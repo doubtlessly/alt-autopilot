@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-07T11:41:21+00:00",
+  "updated_at": "2025-10-07T11:55:04+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -25,9 +25,9 @@
     "fail_atr": 14,
     "fail_structure": 10,
     "fail_expansion": 34,
-    "fail_trigger": 35,
+    "fail_trigger": 34,
     "fail_market_regime": 91,
-    "fail_volume": 6,
+    "fail_volume": 5,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -39,8 +39,8 @@
       "XMR/USDT",
       "ADA/USDT",
       "HYPE/USDT",
-      "ASTER/USDT",
       "DOGE/USDT",
+      "ASTER/USDT",
       "XPL/USDT",
       "LINK/USDT",
       "BNB/USDT"
