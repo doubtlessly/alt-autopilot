@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-08T15:44:39+00:00",
+  "updated_at": "2025-10-08T15:57:11+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 151,
     "fail_atr": 8,
     "fail_structure": 27,
-    "fail_expansion": 19,
-    "fail_trigger": 19,
-    "fail_market_regime": 96,
+    "fail_expansion": 20,
+    "fail_trigger": 20,
+    "fail_market_regime": 95,
     "fail_volume": 1,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "ZEC/USDT",
       "DOGE/USDT",
       "LINK/USDT",
-      "XPL/USDT"
+      "FF/USDT"
     ]
   }
 }
