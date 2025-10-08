@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-08T17:43:10+00:00",
+  "updated_at": "2025-10-08T17:54:21+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,7 +24,7 @@
     "scanned": 149,
     "fail_atr": 7,
     "fail_structure": 25,
-    "fail_expansion": 23,
+    "fail_expansion": 22,
     "fail_trigger": 23,
     "fail_market_regime": 94,
     "fail_volume": 1,
@@ -43,7 +43,7 @@
       "ZEC/USDT",
       "DOGE/USDT",
       "FF/USDT",
-      "LINK/USDT"
+      "AVAX/USDT"
     ]
   }
 }
