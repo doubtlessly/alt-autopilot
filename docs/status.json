@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-10T23:21:12+00:00",
+  "updated_at": "2025-10-10T23:40:18+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 158,
     "fail_atr": 0,
     "fail_structure": 17,
-    "fail_expansion": 9,
-    "fail_trigger": 9,
-    "fail_market_regime": 132,
+    "fail_expansion": 11,
+    "fail_trigger": 11,
+    "fail_market_regime": 130,
     "fail_volume": 0,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "LTC/USDT",
       "SUI/USDT",
       "LINK/USDT",
-      "BNB/USDT"
+      "USDC/USDT"
     ]
   }
 }
