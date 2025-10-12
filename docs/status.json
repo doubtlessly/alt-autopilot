@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-12T14:41:09+00:00",
+  "updated_at": "2025-10-12T14:55:01+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 155,
     "fail_atr": 1,
-    "fail_structure": 7,
+    "fail_structure": 8,
     "fail_expansion": 7,
     "fail_trigger": 7,
-    "fail_market_regime": 140,
+    "fail_market_regime": 139,
     "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -42,8 +42,8 @@
       "BNB/USDT",
       "ADA/USDT",
       "DOGE/USDT",
-      "LTC/USDT",
-      "ASTER/USDT"
+      "SUI/USDT",
+      "LTC/USDT"
     ]
   }
 }
