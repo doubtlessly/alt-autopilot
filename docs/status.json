@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-14T15:27:55+00:00",
+  "updated_at": "2025-10-14T15:43:25+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,7 +23,7 @@
     "universe_size": 200,
     "scanned": 156,
     "fail_atr": 1,
-    "fail_structure": 7,
+    "fail_structure": 6,
     "fail_expansion": 8,
     "fail_trigger": 8,
     "fail_market_regime": 140,
@@ -40,10 +40,10 @@
       "ADA/USDT",
       "DOGE/USDT",
       "LINK/USDT",
-      "SUI/USDT",
       "TAO/USDT",
+      "SUI/USDT",
       "BNB/USDT",
-      "AVAX/USDT"
+      "ZEC/USDT"
     ]
   }
 }
