@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-15T17:21:12+00:00",
+  "updated_at": "2025-10-15T17:42:39+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -40,10 +40,10 @@
       "ADA/USDT",
       "LINK/USDT",
       "ZEC/USDT",
-      "SUI/USDT",
       "AVAX/USDT",
-      "TAO/USDT",
-      "DOGE/USDT"
+      "SUI/USDT",
+      "DOGE/USDT",
+      "TAO/USDT"
     ]
   }
 }
