@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-16T12:49:37+00:00",
+  "updated_at": "2025-10-16T13:35:17+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,10 +24,10 @@
     "scanned": 150,
     "fail_atr": 1,
     "fail_structure": 13,
-    "fail_expansion": 7,
-    "fail_trigger": 7,
+    "fail_expansion": 8,
+    "fail_trigger": 8,
     "fail_market_regime": 128,
-    "fail_volume": 2,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -38,8 +38,8 @@
       "XRP/USDT",
       "XMR/USDT",
       "ADA/USDT",
-      "SEI/USDT",
       "SUI/USDT",
+      "SEI/USDT",
       "DOGE/USDT",
       "AVAX/USDT",
       "YB/USDT",
