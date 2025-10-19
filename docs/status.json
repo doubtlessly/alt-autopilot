@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-19T10:22:52+00:00",
+  "updated_at": "2025-10-19T10:42:32+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,7 +23,7 @@
     "universe_size": 200,
     "scanned": 152,
     "fail_atr": 2,
-    "fail_structure": 7,
+    "fail_structure": 8,
     "fail_expansion": 4,
     "fail_trigger": 4,
     "fail_market_regime": 137,
@@ -37,13 +37,13 @@
       "SOL/USDT",
       "XRP/USDT",
       "XMR/USDT",
-      "HOLO/USDT",
       "BAS/USDT",
-      "LINK/USDT",
+      "HOLO/USDT",
       "ADA/USDT",
+      "LINK/USDT",
       "LINEA/USDT",
-      "ENA/USDT",
-      "BNB/USDT"
+      "SUI/USDT",
+      "ENA/USDT"
     ]
   }
 }
