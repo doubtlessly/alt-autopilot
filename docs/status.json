@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-19T10:54:36+00:00",
+  "updated_at": "2025-10-19T11:17:45+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 152,
     "fail_atr": 2,
-    "fail_structure": 9,
-    "fail_expansion": 3,
-    "fail_trigger": 3,
+    "fail_structure": 8,
+    "fail_expansion": 4,
+    "fail_trigger": 4,
     "fail_market_regime": 137,
     "fail_volume": 0,
     "fail_rsi": 0,
@@ -41,8 +41,8 @@
       "HOLO/USDT",
       "ADA/USDT",
       "LINK/USDT",
-      "LINEA/USDT",
       "SUI/USDT",
+      "LINEA/USDT",
       "ENA/USDT"
     ]
   }
