@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-19T07:39:48+00:00",
+  "updated_at": "2025-10-19T07:54:38+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 134,
-    "fail_volume": 2,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -38,12 +38,12 @@
       "XMR/USDT",
       "XRP/USDT",
       "HOLO/USDT",
-      "COQ/USDT",
       "LINEA/USDT",
-      "ENA/USDT",
+      "COQ/USDT",
       "ADA/USDT",
       "YB/USDT",
-      "LINK/USDT"
+      "LINK/USDT",
+      "ENA/USDT"
     ]
   }
 }
