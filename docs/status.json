@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-20T08:32:08+00:00",
+  "updated_at": "2025-10-20T08:52:05+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 157,
     "fail_atr": 2,
     "fail_structure": 4,
-    "fail_expansion": 12,
-    "fail_trigger": 12,
+    "fail_expansion": 13,
+    "fail_trigger": 13,
     "fail_market_regime": 138,
     "fail_volume": 1,
     "fail_rsi": 1,
@@ -42,8 +42,8 @@
       "LINK/USDT",
       "SUI/USDT",
       "DOGE/USDT",
-      "TAO/USDT",
-      "ZEC/USDT"
+      "ZEC/USDT",
+      "TAO/USDT"
     ]
   }
 }
