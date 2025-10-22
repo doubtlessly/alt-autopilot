@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-22T15:25:26+00:00",
+  "updated_at": "2025-10-22T15:44:18+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,12 +21,12 @@
   "stats": {
     "symbols_total": 1081,
     "universe_size": 200,
-    "scanned": 153,
+    "scanned": 152,
     "fail_atr": 2,
     "fail_structure": 11,
     "fail_expansion": 6,
     "fail_trigger": 6,
-    "fail_market_regime": 134,
+    "fail_market_regime": 133,
     "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "SUI/USDT",
       "ENA/USDT",
       "DOGE/USDT",
-      "LTC/USDT"
+      "HOLO/USDT"
     ]
   }
 }
