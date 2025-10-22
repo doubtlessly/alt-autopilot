@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-22T19:21:30+00:00",
+  "updated_at": "2025-10-22T19:42:10+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -43,7 +43,7 @@
       "SUI/USDT",
       "ENA/USDT",
       "DOGE/USDT",
-      "HOLO/USDT"
+      "AVAX/USDT"
     ]
   }
 }
