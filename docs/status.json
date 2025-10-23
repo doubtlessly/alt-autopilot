@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-23T09:30:45+00:00",
+  "updated_at": "2025-10-23T09:46:23+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 152,
     "fail_atr": 4,
     "fail_structure": 11,
-    "fail_expansion": 6,
-    "fail_trigger": 6,
-    "fail_market_regime": 130,
+    "fail_expansion": 4,
+    "fail_trigger": 4,
+    "fail_market_regime": 131,
     "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "SUI/USDT",
       "LTC/USDT",
       "AVAX/USDT",
-      "DOGE/USDT"
+      "YB/USDT"
     ]
   }
 }
