@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-24T19:54:47+00:00",
+  "updated_at": "2025-10-24T20:26:29+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 11,
     "fail_trigger": 11,
     "fail_market_regime": 129,
-    "fail_volume": 2,
+    "fail_volume": 5,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "ADA/USDT",
       "ZEC/USDT",
       "YB/USDT",
-      "LINK/USDT",
       "SUI/USDT",
+      "LINK/USDT",
       "OPEN/USDT",
       "AVAX/USDT"
     ]
