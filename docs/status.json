@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-25T22:41:42+00:00",
+  "updated_at": "2025-10-25T22:54:19+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,10 +22,10 @@
     "symbols_total": 1083,
     "universe_size": 200,
     "scanned": 151,
-    "fail_atr": 4,
+    "fail_atr": 3,
     "fail_structure": 4,
-    "fail_expansion": 14,
-    "fail_trigger": 14,
+    "fail_expansion": 15,
+    "fail_trigger": 15,
     "fail_market_regime": 128,
     "fail_volume": 4,
     "fail_rsi": 0,
@@ -40,10 +40,10 @@
       "ADA/USDT",
       "ZEC/USDT",
       "H/USDT",
-      "LTC/USDT",
       "YB/USDT",
       "LINK/USDT",
-      "BNB/USDT"
+      "BNB/USDT",
+      "LTC/USDT"
     ]
   }
 }
