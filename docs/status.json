@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-25T03:38:13+00:00",
+  "updated_at": "2025-10-25T03:56:59+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -38,8 +38,8 @@
       "SOL/USDT",
       "XMR/USDT",
       "ADA/USDT",
-      "ZEC/USDT",
       "YB/USDT",
+      "ZEC/USDT",
       "OPEN/USDT",
       "LINK/USDT",
       "SUI/USDT",
