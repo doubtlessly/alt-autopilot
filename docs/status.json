@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-26T15:41:23+00:00",
+  "updated_at": "2025-10-26T15:54:51+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 153,
     "fail_atr": 4,
     "fail_structure": 1,
-    "fail_expansion": 20,
-    "fail_trigger": 21,
+    "fail_expansion": 18,
+    "fail_trigger": 18,
     "fail_market_regime": 127,
     "fail_volume": 2,
     "fail_rsi": 0,
@@ -40,8 +40,8 @@
       "ZEC/USDT",
       "HYPE/USDT",
       "LINK/USDT",
-      "ADA/USDT",
       "HOLO/USDT",
+      "ADA/USDT",
       "SUI/USDT",
       "SEI/USDT"
     ]
