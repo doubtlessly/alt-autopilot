@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-27T13:36:12+00:00",
+  "updated_at": "2025-10-27T13:58:06+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 17,
     "fail_trigger": 17,
     "fail_market_regime": 124,
-    "fail_volume": 2,
+    "fail_volume": 0,
     "fail_rsi": 2,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -41,9 +41,9 @@
       "LINK/USDT",
       "HYPE/USDT",
       "ADA/USDT",
-      "LTC/USDT",
       "DOGE/USDT",
-      "HOLO/USDT"
+      "LTC/USDT",
+      "SUI/USDT"
     ]
   }
 }
