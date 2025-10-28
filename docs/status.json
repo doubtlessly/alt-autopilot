@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-28T06:37:30+00:00",
+  "updated_at": "2025-10-28T06:59:48+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 11,
     "fail_trigger": 11,
     "fail_market_regime": 134,
-    "fail_volume": 2,
+    "fail_volume": 1,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -37,8 +37,8 @@
       "XRP/USDT",
       "SOL/USDT",
       "XMR/USDT",
-      "ADA/USDT",
       "LINK/USDT",
+      "ADA/USDT",
       "ZEC/USDT",
       "LTC/USDT",
       "SUI/USDT",
