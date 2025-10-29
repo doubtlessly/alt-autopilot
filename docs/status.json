@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-29T10:27:16+00:00",
+  "updated_at": "2025-10-29T10:48:55+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 153,
     "fail_atr": 3,
-    "fail_structure": 10,
-    "fail_expansion": 6,
-    "fail_trigger": 6,
+    "fail_structure": 11,
+    "fail_expansion": 5,
+    "fail_trigger": 5,
     "fail_market_regime": 133,
     "fail_volume": 1,
     "fail_rsi": 1,
@@ -43,7 +43,7 @@
       "TRUMP/USDT",
       "HYPE/USDT",
       "HOLO/USDT",
-      "TAO/USDT"
+      "LTC/USDT"
     ]
   }
 }
