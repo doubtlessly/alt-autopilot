@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-01T09:54:00+00:00",
+  "updated_at": "2025-11-01T10:23:09+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,12 +21,12 @@
   "stats": {
     "symbols_total": 1065,
     "universe_size": 200,
-    "scanned": 155,
+    "scanned": 156,
     "fail_atr": 2,
     "fail_structure": 6,
-    "fail_expansion": 6,
-    "fail_trigger": 7,
-    "fail_market_regime": 139,
+    "fail_expansion": 7,
+    "fail_trigger": 8,
+    "fail_market_regime": 140,
     "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -41,8 +41,8 @@
       "TAO/USDT",
       "ADA/USDT",
       "HYPE/USDT",
-      "LINK/USDT",
       "LTC/USDT",
+      "LINK/USDT",
       "SUI/USDT"
     ]
   }
