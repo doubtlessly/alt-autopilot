@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-02T21:20:00+00:00",
+  "updated_at": "2025-11-02T21:40:37+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 10,
     "fail_trigger": 10,
     "fail_market_regime": 141,
-    "fail_volume": 6,
+    "fail_volume": 4,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -35,8 +35,8 @@
       "ETH/USDT",
       "BTC/USDT",
       "SOL/USDT",
-      "XRP/USDT",
       "XMR/USDT",
+      "XRP/USDT",
       "ASTER/USDT",
       "ZEC/USDT",
       "LTC/USDT",
