@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-03T14:58:59+00:00",
+  "updated_at": "2025-11-03T15:30:10+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,12 +21,12 @@
   "stats": {
     "symbols_total": 1063,
     "universe_size": 200,
-    "scanned": 157,
+    "scanned": 156,
     "fail_atr": 3,
     "fail_structure": 8,
     "fail_expansion": 6,
     "fail_trigger": 6,
-    "fail_market_regime": 140,
+    "fail_market_regime": 139,
     "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -40,8 +40,8 @@
       "ASTER/USDT",
       "ZEC/USDT",
       "LTC/USDT",
-      "ADA/USDT",
       "SUI/USDT",
+      "ADA/USDT",
       "LINK/USDT",
       "TAO/USDT"
     ]
