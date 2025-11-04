@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-04T19:41:09+00:00",
+  "updated_at": "2025-11-04T19:55:03+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 158,
     "fail_atr": 3,
-    "fail_structure": 6,
+    "fail_structure": 5,
     "fail_expansion": 9,
     "fail_trigger": 9,
-    "fail_market_regime": 140,
+    "fail_market_regime": 141,
     "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -41,8 +41,8 @@
       "XMR/USDT",
       "LINK/USDT",
       "JELLYJELLY/USDT",
-      "TAO/USDT",
       "ICP/USDT",
+      "TAO/USDT",
       "SUI/USDT"
     ]
   }
