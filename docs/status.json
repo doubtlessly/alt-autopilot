@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-05T20:47:47+00:00",
+  "updated_at": "2025-11-05T20:59:16+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 157,
     "fail_atr": 1,
     "fail_structure": 4,
-    "fail_expansion": 11,
-    "fail_trigger": 11,
-    "fail_market_regime": 140,
+    "fail_expansion": 12,
+    "fail_trigger": 12,
+    "fail_market_regime": 139,
     "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -40,8 +40,8 @@
       "ZEC/USDT",
       "LINK/USDT",
       "DASH/USDT",
-      "MMT/USDT",
       "SUI/USDT",
+      "MMT/USDT",
       "HYPE/USDT",
       "KITE/USDT"
     ]
