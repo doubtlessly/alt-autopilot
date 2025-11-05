@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-05T15:25:36+00:00",
+  "updated_at": "2025-11-05T15:46:01+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,12 +21,12 @@
   "stats": {
     "symbols_total": 1057,
     "universe_size": 200,
-    "scanned": 157,
+    "scanned": 158,
     "fail_atr": 2,
     "fail_structure": 3,
     "fail_expansion": 10,
     "fail_trigger": 10,
-    "fail_market_regime": 142,
+    "fail_market_regime": 143,
     "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -39,8 +39,8 @@
       "XMR/USDT",
       "ZEC/USDT",
       "LINK/USDT",
-      "JELLYJELLY/USDT",
       "DASH/USDT",
+      "JELLYJELLY/USDT",
       "SUI/USDT",
       "HYPE/USDT",
       "MMT/USDT"
