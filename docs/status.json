@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-05T16:57:08+00:00",
+  "updated_at": "2025-11-05T17:23:37+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 158,
     "fail_atr": 2,
-    "fail_structure": 3,
-    "fail_expansion": 12,
-    "fail_trigger": 12,
-    "fail_market_regime": 141,
+    "fail_structure": 4,
+    "fail_expansion": 10,
+    "fail_trigger": 10,
+    "fail_market_regime": 142,
     "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -42,8 +42,8 @@
       "DASH/USDT",
       "SUI/USDT",
       "HYPE/USDT",
-      "JELLYJELLY/USDT",
-      "MMT/USDT"
+      "MMT/USDT",
+      "DOGE/USDT"
     ]
   }
 }
