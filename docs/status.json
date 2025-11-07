@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-07T09:55:42+00:00",
+  "updated_at": "2025-11-07T10:26:32+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 155,
     "fail_atr": 1,
     "fail_structure": 5,
-    "fail_expansion": 13,
-    "fail_trigger": 13,
+    "fail_expansion": 14,
+    "fail_trigger": 14,
     "fail_market_regime": 135,
     "fail_volume": 0,
     "fail_rsi": 3,
@@ -40,8 +40,8 @@
       "XMR/USDT",
       "ICP/USDT",
       "LINK/USDT",
-      "SAPIEN/USDT",
       "FIL/USDT",
+      "SAPIEN/USDT",
       "SUI/USDT",
       "HIPPO/USDT"
     ]
