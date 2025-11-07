@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-07T15:57:15+00:00",
+  "updated_at": "2025-11-07T16:27:05+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,13 +22,13 @@
     "symbols_total": 1059,
     "universe_size": 200,
     "scanned": 155,
-    "fail_atr": 2,
+    "fail_atr": 1,
     "fail_structure": 5,
-    "fail_expansion": 13,
-    "fail_trigger": 13,
+    "fail_expansion": 14,
+    "fail_trigger": 14,
     "fail_market_regime": 135,
     "fail_volume": 0,
-    "fail_rsi": 1,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -41,8 +41,8 @@
       "FIL/USDT",
       "LINK/USDT",
       "ICP/USDT",
-      "SUI/USDT",
       "HIPPO/USDT",
+      "SUI/USDT",
       "SAPIEN/USDT"
     ]
   }
