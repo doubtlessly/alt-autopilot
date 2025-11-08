@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-08T02:55:37+00:00",
+  "updated_at": "2025-11-08T03:39:01+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -26,8 +26,8 @@
     "fail_structure": 6,
     "fail_expansion": 12,
     "fail_trigger": 12,
-    "fail_market_regime": 139,
-    "fail_volume": 2,
+    "fail_market_regime": 140,
+    "fail_volume": 3,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -39,8 +39,8 @@
       "SOL/USDT",
       "FIL/USDT",
       "XMR/USDT",
-      "ICP/USDT",
       "LINK/USDT",
+      "ICP/USDT",
       "SUI/USDT",
       "NEAR/USDT",
       "FET/USDT"
