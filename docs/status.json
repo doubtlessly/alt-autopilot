@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-09T13:36:28+00:00",
+  "updated_at": "2025-11-09T13:54:53+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,8 +41,8 @@
       "LTC/USDT",
       "ICP/USDT",
       "LINK/USDT",
-      "FIL/USDT",
       "NEAR/USDT",
+      "FIL/USDT",
       "SUI/USDT"
     ]
   }
