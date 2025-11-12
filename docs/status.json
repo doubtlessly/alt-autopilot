@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-12T01:50:26+00:00",
+  "updated_at": "2025-11-12T03:16:45+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 142,
-    "fail_volume": 1,
+    "fail_volume": 2,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -39,8 +39,8 @@
       "XMR/USDT",
       "SOL/USDT",
       "LINK/USDT",
-      "UNI/USDT",
       "SUI/USDT",
+      "UNI/USDT",
       "HYPE/USDT",
       "KITE/USDT",
       "LTC/USDT"
