@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-14T03:17:14+00:00",
+  "updated_at": "2025-11-14T03:56:03+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -19,14 +19,14 @@
     "rsi_divergence_lookback": 20
   },
   "stats": {
-    "symbols_total": 1067,
+    "symbols_total": 1068,
     "universe_size": 200,
-    "scanned": 169,
+    "scanned": 168,
     "fail_atr": 3,
-    "fail_structure": 9,
-    "fail_expansion": 5,
-    "fail_trigger": 5,
-    "fail_market_regime": 152,
+    "fail_structure": 10,
+    "fail_expansion": 4,
+    "fail_trigger": 4,
+    "fail_market_regime": 151,
     "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -40,8 +40,8 @@
       "ZEC/USDT",
       "LINK/USDT",
       "DOGE/USDT",
-      "SUI/USDT",
       "LTC/USDT",
+      "SUI/USDT",
       "AVAX/USDT",
       "ALLO/USDT"
     ]
