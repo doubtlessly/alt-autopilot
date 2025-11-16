@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-16T07:54:45+00:00",
+  "updated_at": "2025-11-16T08:30:00+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 166,
     "fail_atr": 3,
     "fail_structure": 2,
-    "fail_expansion": 8,
-    "fail_trigger": 8,
+    "fail_expansion": 9,
+    "fail_trigger": 9,
     "fail_market_regime": 152,
     "fail_volume": 0,
     "fail_rsi": 1,
@@ -41,8 +41,8 @@
       "LTC/USDT",
       "MMT/USDT",
       "SUI/USDT",
-      "LINK/USDT",
       "DASH/USDT",
+      "LINK/USDT",
       "KITE/USDT"
     ]
   }
