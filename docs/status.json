@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-16T12:43:06+00:00",
+  "updated_at": "2025-11-16T13:14:28+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,7 +21,7 @@
   "stats": {
     "symbols_total": 1068,
     "universe_size": 200,
-    "scanned": 167,
+    "scanned": 168,
     "fail_atr": 3,
     "fail_structure": 2,
     "fail_expansion": 9,
@@ -40,10 +40,10 @@
       "SOL/USDT",
       "LTC/USDT",
       "MMT/USDT",
-      "SUI/USDT",
       "LINK/USDT",
+      "SUI/USDT",
       "DASH/USDT",
-      "BNB/USDT"
+      "DOGE/USDT"
     ]
   }
 }
