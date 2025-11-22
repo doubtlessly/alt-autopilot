@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-21T23:54:35+00:00",
+  "updated_at": "2025-11-22T01:45:10+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 168,
     "fail_atr": 2,
-    "fail_structure": 4,
-    "fail_expansion": 3,
-    "fail_trigger": 3,
+    "fail_structure": 3,
+    "fail_expansion": 4,
+    "fail_trigger": 4,
     "fail_market_regime": 159,
     "fail_volume": 1,
     "fail_rsi": 0,
@@ -39,8 +39,8 @@
       "ZEC/USDT",
       "XMR/USDT",
       "LINK/USDT",
-      "DOGE/USDT",
       "HYPE/USDT",
+      "DOGE/USDT",
       "SUI/USDT",
       "ADA/USDT",
       "USDC/USDT"
