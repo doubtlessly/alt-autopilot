@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-23T05:44:46+00:00",
+  "updated_at": "2025-11-23T05:56:05+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -35,8 +35,8 @@
       "BTC/USDT",
       "ETH/USDT",
       "XRP/USDT",
-      "ZEC/USDT",
       "XMR/USDT",
+      "ZEC/USDT",
       "SOL/USDT",
       "LINK/USDT",
       "HYPE/USDT",
