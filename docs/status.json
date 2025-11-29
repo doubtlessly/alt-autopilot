@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-29T09:24:51+00:00",
+  "updated_at": "2025-11-29T09:43:15+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 5,
     "fail_trigger": 6,
     "fail_market_regime": 161,
-    "fail_volume": 1,
+    "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "ZEC/USDT",
       "SUT/USDT",
       "LTC/USDT",
-      "SUI/USDT",
-      "MON/USDT"
+      "MON/USDT",
+      "SUI/USDT"
     ]
   }
 }
