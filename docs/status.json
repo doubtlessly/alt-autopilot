@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-30T15:54:37+00:00",
+  "updated_at": "2025-11-30T16:28:52+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 180,
     "fail_atr": 4,
-    "fail_structure": 1,
-    "fail_expansion": 7,
-    "fail_trigger": 7,
+    "fail_structure": 3,
+    "fail_expansion": 5,
+    "fail_trigger": 5,
     "fail_market_regime": 168,
     "fail_volume": 2,
     "fail_rsi": 0,
@@ -39,8 +39,8 @@
       "SOL/USDT",
       "LINK/USDT",
       "MON/USDT",
-      "HYPE/USDT",
       "ZEC/USDT",
+      "HYPE/USDT",
       "SUI/USDT",
       "SUT/USDT",
       "LTC/USDT"
