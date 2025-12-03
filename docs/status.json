@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-03T20:31:12+00:00",
+  "updated_at": "2025-12-03T20:51:28+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 163,
-    "fail_volume": 1,
+    "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "SUI/USDT",
       "HYPE/USDT",
       "IRYS/USDT",
-      "DOGE/USDT",
-      "SUT/USDT"
+      "SUT/USDT",
+      "DOGE/USDT"
     ]
   }
 }
