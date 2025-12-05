@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-05T05:01:17+00:00",
+  "updated_at": "2025-12-05T05:31:45+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,9 +21,9 @@
   "stats": {
     "symbols_total": 1015,
     "universe_size": 200,
-    "scanned": 175,
+    "scanned": 174,
     "fail_atr": 4,
-    "fail_structure": 3,
+    "fail_structure": 2,
     "fail_expansion": 5,
     "fail_trigger": 5,
     "fail_market_regime": 163,
@@ -41,8 +41,8 @@
       "ZEC/USDT",
       "IRYS/USDT",
       "SUI/USDT",
-      "HYPE/USDT",
       "FARTCOIN/USDT",
+      "HYPE/USDT",
       "DOGE/USDT"
     ]
   }
