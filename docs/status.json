@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-06T23:22:28+00:00",
+  "updated_at": "2025-12-06T23:42:40+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,8 +22,8 @@
     "symbols_total": 1015,
     "universe_size": 200,
     "scanned": 175,
-    "fail_atr": 3,
-    "fail_structure": 7,
+    "fail_atr": 4,
+    "fail_structure": 6,
     "fail_expansion": 2,
     "fail_trigger": 2,
     "fail_market_regime": 163,
@@ -38,8 +38,8 @@
       "XRP/USDT",
       "XMR/USDT",
       "SOL/USDT",
-      "ZEC/USDT",
       "IRYS/USDT",
+      "ZEC/USDT",
       "SUI/USDT",
       "LUNC/USDT",
       "HYPE/USDT",
