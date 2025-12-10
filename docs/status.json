@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-10T05:47:49+00:00",
+  "updated_at": "2025-12-10T06:40:24+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -19,7 +19,7 @@
     "rsi_divergence_lookback": 20
   },
   "stats": {
-    "symbols_total": 1018,
+    "symbols_total": 1019,
     "universe_size": 200,
     "scanned": 176,
     "fail_atr": 2,
