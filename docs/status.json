@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-14T22:55:13+00:00",
+  "updated_at": "2025-12-14T23:23:29+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 3,
     "fail_trigger": 3,
     "fail_market_regime": 165,
-    "fail_volume": 1,
+    "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -35,11 +35,11 @@
       "BTC/USDT",
       "ETH/USDT",
       "LINK/USDT",
-      "XMR/USDT",
       "XRP/USDT",
+      "XMR/USDT",
       "SOL/USDT",
-      "WET/USDT",
       "NIGHT/USDT",
+      "WET/USDT",
       "US/USDT",
       "CYS/USDT",
       "BBT/USDT",
