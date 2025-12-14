@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-14T08:52:33+00:00",
+  "updated_at": "2025-12-14T09:25:14+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 178,
     "fail_atr": 4,
     "fail_structure": 5,
-    "fail_expansion": 2,
-    "fail_trigger": 2,
+    "fail_expansion": 3,
+    "fail_trigger": 3,
     "fail_market_regime": 166,
     "fail_volume": 0,
     "fail_rsi": 0,
@@ -40,8 +40,8 @@
       "ZEC/USDT",
       "SOL/USDT",
       "CYS/USDT",
-      "WET/USDT",
       "BBT/USDT",
+      "WET/USDT",
       "NIGHT/USDT",
       "US/USDT"
     ]
