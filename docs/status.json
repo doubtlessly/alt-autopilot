@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-18T07:35:43+00:00",
+  "updated_at": "2025-12-18T07:54:12+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -39,9 +39,9 @@
       "XMR/USDT",
       "LINK/USDT",
       "HYPE/USDT",
-      "NIGHT/USDT",
       "WET/USDT",
       "CYS/USDT",
+      "NIGHT/USDT",
       "DOGE/USDT",
       "IR/USDT"
     ]
