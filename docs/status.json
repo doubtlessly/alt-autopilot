@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-18T09:02:56+00:00",
+  "updated_at": "2025-12-18T09:44:25+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -28,7 +28,7 @@
     "fail_trigger": 4,
     "fail_market_regime": 170,
     "fail_volume": 0,
-    "fail_rsi": 2,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -39,11 +39,11 @@
       "XMR/USDT",
       "LINK/USDT",
       "HYPE/USDT",
-      "WET/USDT",
       "CYS/USDT",
-      "NIGHT/USDT",
+      "WET/USDT",
       "IR/USDT",
-      "DOGE/USDT"
+      "DOGE/USDT",
+      "NIGHT/USDT"
     ]
   }
 }
