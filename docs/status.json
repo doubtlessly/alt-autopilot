@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-18T19:03:30+00:00",
+  "updated_at": "2025-12-18T19:29:54+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,13 +21,13 @@
   "stats": {
     "symbols_total": 985,
     "universe_size": 200,
-    "scanned": 178,
+    "scanned": 177,
     "fail_atr": 1,
-    "fail_structure": 2,
+    "fail_structure": 1,
     "fail_expansion": 5,
-    "fail_trigger": 5,
+    "fail_trigger": 6,
     "fail_market_regime": 169,
-    "fail_volume": 1,
+    "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "LINK/USDT",
       "CYS/USDT",
       "DOGE/USDT",
-      "WET/USDT",
       "HYPE/USDT",
+      "WET/USDT",
       "NIGHT/USDT",
       "UDS/USDT"
     ]
