@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-20T05:25:46+00:00",
+  "updated_at": "2025-12-20T05:47:28+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,7 +24,7 @@
     "scanned": 176,
     "fail_atr": 3,
     "fail_structure": 2,
-    "fail_expansion": 7,
+    "fail_expansion": 6,
     "fail_trigger": 7,
     "fail_market_regime": 164,
     "fail_volume": 2,
@@ -42,8 +42,8 @@
       "VOOI/USDT",
       "DOGE/USDT",
       "UDS/USDT",
-      "ZIG/USDT",
-      "WET/USDT"
+      "WET/USDT",
+      "ZIG/USDT"
     ]
   }
 }
