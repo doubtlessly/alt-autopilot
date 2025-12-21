@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-21T18:34:52+00:00",
+  "updated_at": "2025-12-21T18:57:48+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -42,8 +42,8 @@
       "LINK/USDT",
       "CYS/USDT",
       "NIGHT/USDT",
-      "TTD/USDT",
-      "ZKP/USDT"
+      "ZKP/USDT",
+      "TTD/USDT"
     ]
   }
 }
