@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-21T16:50:51+00:00",
+  "updated_at": "2025-12-21T17:21:21+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -26,9 +26,9 @@
     "fail_structure": 4,
     "fail_expansion": 6,
     "fail_trigger": 6,
-    "fail_market_regime": 159,
+    "fail_market_regime": 160,
     "fail_volume": 1,
-    "fail_rsi": 0,
+    "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -40,8 +40,8 @@
       "SOL/USDT",
       "VOOI/USDT",
       "LINK/USDT",
-      "NIGHT/USDT",
       "CYS/USDT",
+      "NIGHT/USDT",
       "TTD/USDT",
       "ZKP/USDT"
     ]
