@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-22T11:55:29+00:00",
+  "updated_at": "2025-12-22T12:52:29+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,11 +23,11 @@
     "universe_size": 200,
     "scanned": 174,
     "fail_atr": 4,
-    "fail_structure": 3,
+    "fail_structure": 4,
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 160,
-    "fail_volume": 1,
+    "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "VOOI/USDT",
       "NIGHT/USDT",
       "ZKP/USDT",
-      "ZIG/USDT",
-      "IR/USDT"
+      "IR/USDT",
+      "ZIG/USDT"
     ]
   }
 }
