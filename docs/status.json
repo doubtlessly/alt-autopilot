@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-22T08:36:58+00:00",
+  "updated_at": "2025-12-22T09:02:44+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,8 +22,8 @@
     "symbols_total": 986,
     "universe_size": 200,
     "scanned": 174,
-    "fail_atr": 5,
-    "fail_structure": 3,
+    "fail_atr": 6,
+    "fail_structure": 2,
     "fail_expansion": 5,
     "fail_trigger": 5,
     "fail_market_regime": 161,
@@ -43,7 +43,7 @@
       "NIGHT/USDT",
       "TTD/USDT",
       "ZKP/USDT",
-      "ZIG/USDT"
+      "IR/USDT"
     ]
   }
 }
