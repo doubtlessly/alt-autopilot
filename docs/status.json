@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-23T03:41:05+00:00",
+  "updated_at": "2025-12-23T04:26:52+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,7 +23,7 @@
     "universe_size": 200,
     "scanned": 171,
     "fail_atr": 5,
-    "fail_structure": 3,
+    "fail_structure": 4,
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 156,
@@ -38,9 +38,9 @@
       "SOL/USDT",
       "XMR/USDT",
       "LINK/USDT",
-      "CYS/USDT",
       "ZKP/USDT",
       "VOOI/USDT",
+      "CYS/USDT",
       "IR/USDT",
       "ZIG/USDT",
       "NIGHT/USDT"
