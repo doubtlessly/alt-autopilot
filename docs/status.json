@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-23T23:24:17+00:00",
+  "updated_at": "2025-12-23T23:44:30+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,8 +41,8 @@
       "IR/USDT",
       "CYS/USDT",
       "NIGHT/USDT",
-      "VOOI/USDT",
       "WET/USDT",
+      "VOOI/USDT",
       "UDS/USDT"
     ]
   }
