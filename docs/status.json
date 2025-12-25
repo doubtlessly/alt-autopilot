@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-25T21:55:13+00:00",
+  "updated_at": "2025-12-25T22:25:13+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -40,9 +40,9 @@
       "IR/USDT",
       "XRP/USDT",
       "XMR/USDT",
-      "SOL/USDT",
-      "TTD/USDT",
       "ZKP/USDT",
+      "TTD/USDT",
+      "SOL/USDT",
       "UDS/USDT"
     ]
   }
