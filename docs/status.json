@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-26T16:52:33+00:00",
+  "updated_at": "2025-12-26T17:22:26+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,12 +21,12 @@
   "stats": {
     "symbols_total": 978,
     "universe_size": 200,
-    "scanned": 175,
+    "scanned": 176,
     "fail_atr": 5,
     "fail_structure": 4,
     "fail_expansion": 3,
     "fail_trigger": 3,
-    "fail_market_regime": 163,
+    "fail_market_regime": 164,
     "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -42,8 +42,8 @@
       "ZKP/USDT",
       "XMR/USDT",
       "UDS/USDT",
-      "CYS/USDT",
-      "ZIG/USDT"
+      "ZIG/USDT",
+      "TTD/USDT"
     ]
   }
 }
