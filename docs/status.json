@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-28T17:56:36+00:00",
+  "updated_at": "2025-12-28T18:35:19+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,9 +21,9 @@
   "stats": {
     "symbols_total": 978,
     "universe_size": 200,
-    "scanned": 183,
+    "scanned": 182,
     "fail_atr": 7,
-    "fail_structure": 1,
+    "fail_structure": 0,
     "fail_expansion": 4,
     "fail_trigger": 4,
     "fail_market_regime": 171,
@@ -43,7 +43,7 @@
       "XL1/USDT",
       "HYPE/USDT",
       "THQ/USDT",
-      "IKA/USDT"
+      "USDC/USDT"
     ]
   }
 }
