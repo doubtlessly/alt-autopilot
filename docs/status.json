@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-29T03:59:33+00:00",
+  "updated_at": "2025-12-29T04:56:22+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -25,9 +25,9 @@
     "fail_atr": 6,
     "fail_structure": 0,
     "fail_expansion": 5,
-    "fail_trigger": 6,
-    "fail_market_regime": 169,
-    "fail_volume": 0,
+    "fail_trigger": 5,
+    "fail_market_regime": 170,
+    "fail_volume": 1,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -41,9 +41,9 @@
       "ZKP/USDT",
       "SUI/USDT",
       "HYPE/USDT",
-      "USDC/USDT",
       "DOGE/USDT",
-      "HLS/USDT"
+      "HLS/USDT",
+      "USDC/USDT"
     ]
   }
 }
