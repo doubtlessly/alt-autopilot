@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-30T17:50:31+00:00",
+  "updated_at": "2025-12-30T18:37:54+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 164,
-    "fail_volume": 0,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "HYPE/USDT",
       "SUI/USDT",
       "USDC/USDT",
-      "LTC/USDT",
-      "HLS/USDT"
+      "HLS/USDT",
+      "LTC/USDT"
     ]
   }
 }
