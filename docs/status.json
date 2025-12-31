@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-31T13:37:01+00:00",
+  "updated_at": "2025-12-31T13:57:45+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,10 +24,10 @@
     "scanned": 178,
     "fail_atr": 7,
     "fail_structure": 3,
-    "fail_expansion": 6,
-    "fail_trigger": 6,
+    "fail_expansion": 7,
+    "fail_trigger": 7,
     "fail_market_regime": 161,
-    "fail_volume": 1,
+    "fail_volume": 0,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -38,8 +38,8 @@
       "SOL/USDT",
       "ZKP/USDT",
       "XMR/USDT",
-      "LIGHT/USDT",
       "ZEC/USDT",
+      "LIGHT/USDT",
       "USDC/USDT",
       "SUI/USDT",
       "HLS/USDT",
