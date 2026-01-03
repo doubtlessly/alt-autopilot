@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-03T14:56:08+00:00",
+  "updated_at": "2026-01-03T15:24:18+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,11 +22,11 @@
     "symbols_total": 964,
     "universe_size": 200,
     "scanned": 185,
-    "fail_atr": 4,
+    "fail_atr": 3,
     "fail_structure": 4,
-    "fail_expansion": 7,
-    "fail_trigger": 7,
-    "fail_market_regime": 170,
+    "fail_expansion": 6,
+    "fail_trigger": 6,
+    "fail_market_regime": 172,
     "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -40,8 +40,8 @@
       "SUI/USDT",
       "PEPE/USDT",
       "DOGE/USDT",
-      "ZEC/USDT",
       "HYPE/USDT",
+      "ZEC/USDT",
       "ZKP/USDT",
       "TON/USDT"
     ]
