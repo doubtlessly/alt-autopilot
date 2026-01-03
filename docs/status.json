@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-03T22:46:04+00:00",
+  "updated_at": "2026-01-03T22:58:00+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,9 +21,9 @@
   "stats": {
     "symbols_total": 964,
     "universe_size": 200,
-    "scanned": 186,
+    "scanned": 187,
     "fail_atr": 4,
-    "fail_structure": 3,
+    "fail_structure": 4,
     "fail_expansion": 8,
     "fail_trigger": 8,
     "fail_market_regime": 171,
@@ -42,8 +42,8 @@
       "ZEC/USDT",
       "HYPE/USDT",
       "ZKP/USDT",
-      "DOGE/USDT",
-      "XL1/USDT"
+      "XL1/USDT",
+      "DOGE/USDT"
     ]
   }
 }
