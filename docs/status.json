@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-06T16:38:40+00:00",
+  "updated_at": "2026-01-06T17:04:23+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,11 +22,11 @@
     "symbols_total": 967,
     "universe_size": 200,
     "scanned": 186,
-    "fail_atr": 7,
+    "fail_atr": 6,
     "fail_structure": 4,
     "fail_expansion": 10,
     "fail_trigger": 10,
-    "fail_market_regime": 165,
+    "fail_market_regime": 166,
     "fail_volume": 0,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "DOGE/USDT",
       "PEPE/USDT",
       "ADA/USDT",
-      "WIF/USDT"
+      "TAO/USDT"
     ]
   }
 }
