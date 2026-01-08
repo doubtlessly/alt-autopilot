@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-08T17:46:10+00:00",
+  "updated_at": "2026-01-08T18:00:41+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,8 +41,8 @@
       "SUI/USDT",
       "BREV/USDT",
       "USDC/USDT",
-      "PEPE/USDT",
       "LTC/USDT",
+      "PEPE/USDT",
       "TAO/USDT"
     ]
   }
