@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-09T14:37:00+00:00",
+  "updated_at": "2026-01-09T15:00:08+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -28,7 +28,7 @@
     "fail_trigger": 15,
     "fail_market_regime": 156,
     "fail_volume": 1,
-    "fail_rsi": 2,
+    "fail_rsi": 3,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -41,8 +41,8 @@
       "SUI/USDT",
       "USDC/USDT",
       "BREV/USDT",
-      "HYPE/USDT",
       "LTC/USDT",
+      "HYPE/USDT",
       "TAO/USDT"
     ]
   }
