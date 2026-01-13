@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-13T15:32:06+00:00",
+  "updated_at": "2026-01-13T15:54:51+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,11 +22,11 @@
     "symbols_total": 973,
     "universe_size": 200,
     "scanned": 181,
-    "fail_atr": 9,
+    "fail_atr": 10,
     "fail_structure": 11,
     "fail_expansion": 14,
     "fail_trigger": 14,
-    "fail_market_regime": 146,
+    "fail_market_regime": 145,
     "fail_volume": 0,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "USDC/USDT",
       "SUI/USDT",
       "HYPE/USDT",
-      "DN/USDT"
+      "BREV/USDT"
     ]
   }
 }
