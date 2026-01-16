@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-16T09:02:25+00:00",
+  "updated_at": "2026-01-16T09:44:27+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,13 +21,13 @@
   "stats": {
     "symbols_total": 964,
     "universe_size": 200,
-    "scanned": 177,
-    "fail_atr": 15,
-    "fail_structure": 15,
-    "fail_expansion": 13,
-    "fail_trigger": 13,
-    "fail_market_regime": 134,
-    "fail_volume": 2,
+    "scanned": 176,
+    "fail_atr": 14,
+    "fail_structure": 16,
+    "fail_expansion": 12,
+    "fail_trigger": 12,
+    "fail_market_regime": 132,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -41,8 +41,8 @@
       "DASH/USDT",
       "LIT/USDT",
       "USDC/USDT",
-      "SUI/USDT",
       "FOGO/USDT",
+      "SUI/USDT",
       "DN/USDT"
     ]
   }
