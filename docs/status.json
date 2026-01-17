@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-17T05:26:07+00:00",
+  "updated_at": "2026-01-17T05:46:11+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 17,
     "fail_trigger": 17,
     "fail_market_regime": 134,
-    "fail_volume": 5,
+    "fail_volume": 3,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -37,8 +37,8 @@
       "XMR/USDT",
       "XRP/USDT",
       "SOL/USDT",
-      "DASH/USDT",
       "LTC/USDT",
+      "DASH/USDT",
       "LIT/USDT",
       "ULTIMA/USDT",
       "SUI/USDT",
