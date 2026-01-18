@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-18T09:58:13+00:00",
+  "updated_at": "2026-01-18T10:30:18+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 183,
     "fail_atr": 19,
     "fail_structure": 11,
-    "fail_expansion": 14,
-    "fail_trigger": 14,
-    "fail_market_regime": 139,
+    "fail_expansion": 12,
+    "fail_trigger": 12,
+    "fail_market_regime": 140,
     "fail_volume": 2,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "LTC/USDT",
       "FOGO/USDT",
       "ULTIMA/USDT",
-      "USDC/USDT"
+      "ZEC/USDT"
     ]
   }
 }
