@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-22T16:41:51+00:00",
+  "updated_at": "2026-01-22T17:17:28+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 176,
     "fail_atr": 4,
     "fail_structure": 10,
-    "fail_expansion": 10,
-    "fail_trigger": 10,
-    "fail_market_regime": 152,
+    "fail_expansion": 11,
+    "fail_trigger": 11,
+    "fail_market_regime": 151,
     "fail_volume": 0,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -38,8 +38,8 @@
       "XMR/USDT",
       "SOL/USDT",
       "SKR/USDT",
-      "SUI/USDT",
       "ELSA/USDT",
+      "SUI/USDT",
       "LTC/USDT",
       "HYPE/USDT",
       "FOGO/USDT",
