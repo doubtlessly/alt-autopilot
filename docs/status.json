@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-22T08:39:24+00:00",
+  "updated_at": "2026-01-22T09:19:30+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,7 +22,7 @@
     "symbols_total": 970,
     "universe_size": 200,
     "scanned": 178,
-    "fail_atr": 5,
+    "fail_atr": 6,
     "fail_structure": 8,
     "fail_expansion": 11,
     "fail_trigger": 11,
@@ -38,8 +38,8 @@
       "XMR/USDT",
       "SOL/USDT",
       "SUI/USDT",
-      "FOGO/USDT",
       "SKR/USDT",
+      "FOGO/USDT",
       "LTC/USDT",
       "HYPE/USDT",
       "USDC/USDT",
