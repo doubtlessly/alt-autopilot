@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T23:47:39+00:00",
+  "updated_at": "2026-01-23T23:59:12+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,8 +41,8 @@
       "SENT/USDT",
       "HYPE/USDT",
       "SKR/USDT",
-      "DASH/USDT",
       "LTC/USDT",
+      "DASH/USDT",
       "FOGO/USDT"
     ]
   }
