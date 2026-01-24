@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T06:37:56+00:00",
+  "updated_at": "2026-01-24T07:01:12+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 11,
     "fail_trigger": 11,
     "fail_market_regime": 153,
-    "fail_volume": 4,
+    "fail_volume": 5,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "USDC/USDT",
       "HYPE/USDT",
       "FOGO/USDT",
-      "DASH/USDT",
       "SUI/USDT",
+      "DASH/USDT",
       "LTC/USDT",
       "ZEC/USDT"
     ]
