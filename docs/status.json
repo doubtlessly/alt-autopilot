@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-25T14:25:12+00:00",
+  "updated_at": "2026-01-25T14:47:01+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -38,8 +38,8 @@
       "XRP/USDT",
       "SOL/USDT",
       "FIGHT/USDT",
-      "SOMI/USDT",
       "ENSO/USDT",
+      "SOMI/USDT",
       "LTC/USDT",
       "USDC/USDT",
       "WCT/USDT",
