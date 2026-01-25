@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-25T10:27:51+00:00",
+  "updated_at": "2026-01-25T10:50:08+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 177,
     "fail_atr": 5,
-    "fail_structure": 9,
+    "fail_structure": 8,
     "fail_expansion": 7,
     "fail_trigger": 8,
-    "fail_market_regime": 155,
+    "fail_market_regime": 156,
     "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -42,8 +42,8 @@
       "ENSO/USDT",
       "USDC/USDT",
       "LTC/USDT",
-      "FOGO/USDT",
-      "HYPE/USDT"
+      "HYPE/USDT",
+      "WCT/USDT"
     ]
   }
 }
