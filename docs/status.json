@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-25T16:55:18+00:00",
+  "updated_at": "2026-01-25T17:22:21+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,12 +23,12 @@
     "universe_size": 200,
     "scanned": 178,
     "fail_atr": 5,
-    "fail_structure": 7,
-    "fail_expansion": 8,
-    "fail_trigger": 8,
+    "fail_structure": 8,
+    "fail_expansion": 7,
+    "fail_trigger": 7,
     "fail_market_regime": 158,
     "fail_volume": 0,
-    "fail_rsi": 1,
+    "fail_rsi": 2,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -41,9 +41,9 @@
       "LTC/USDT",
       "ENSO/USDT",
       "SOMI/USDT",
-      "USDC/USDT",
       "SUI/USDT",
-      "WCT/USDT"
+      "USDC/USDT",
+      "PEPE/USDT"
     ]
   }
 }
