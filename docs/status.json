@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-27T07:44:46+00:00",
+  "updated_at": "2026-01-27T07:59:42+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,8 +41,8 @@
       "HYPE/USDT",
       "USDC/USDT",
       "LTC/USDT",
-      "ZEC/USDT",
       "SUI/USDT",
+      "ZEC/USDT",
       "PAXG/USDT"
     ]
   }
