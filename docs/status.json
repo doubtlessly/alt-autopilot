@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-30T02:49:13+00:00",
+  "updated_at": "2026-01-30T04:45:27+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -19,16 +19,16 @@
     "rsi_divergence_lookback": 20
   },
   "stats": {
-    "symbols_total": 974,
+    "symbols_total": 975,
     "universe_size": 200,
-    "scanned": 178,
+    "scanned": 177,
     "fail_atr": 3,
-    "fail_structure": 7,
-    "fail_expansion": 15,
-    "fail_trigger": 15,
-    "fail_market_regime": 153,
-    "fail_volume": 2,
-    "fail_rsi": 1,
+    "fail_structure": 6,
+    "fail_expansion": 16,
+    "fail_trigger": 16,
+    "fail_market_regime": 152,
+    "fail_volume": 1,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -43,7 +43,7 @@
       "GWEI/USDT",
       "USDC/USDT",
       "SUI/USDT",
-      "FIGHT/USDT"
+      "LINK/USDT"
     ]
   }
 }
