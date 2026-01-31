@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-31T17:59:24+00:00",
+  "updated_at": "2026-01-31T18:46:55+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -26,7 +26,7 @@
     "fail_structure": 6,
     "fail_expansion": 6,
     "fail_trigger": 6,
-    "fail_market_regime": 160,
+    "fail_market_regime": 161,
     "fail_volume": 0,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -39,11 +39,11 @@
       "SOL/USDT",
       "HYPE/USDT",
       "SENT/USDT",
-      "GWEI/USDT",
       "ZEC/USDT",
-      "IMU/USDT",
+      "GWEI/USDT",
       "DOGE/USDT",
-      "SUI/USDT"
+      "SUI/USDT",
+      "USDC/USDT"
     ]
   }
 }
