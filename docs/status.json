@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-30T23:42:48+00:00",
+  "updated_at": "2026-01-31T00:00:26+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,10 +24,10 @@
     "scanned": 176,
     "fail_atr": 3,
     "fail_structure": 10,
-    "fail_expansion": 11,
-    "fail_trigger": 11,
-    "fail_market_regime": 152,
-    "fail_volume": 5,
+    "fail_expansion": 12,
+    "fail_trigger": 12,
+    "fail_market_regime": 151,
+    "fail_volume": 7,
     "fail_rsi": 3,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "SENT/USDT",
       "PAXG/USDT",
       "HYPE/USDT",
-      "GWEI/USDT",
       "USDC/USDT",
+      "GWEI/USDT",
       "IMU/USDT",
       "SUI/USDT"
     ]
