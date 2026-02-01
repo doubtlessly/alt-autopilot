@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-01T18:52:53+00:00",
+  "updated_at": "2026-02-01T19:29:26+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,7 +41,7 @@
       "GWEI/USDT",
       "SUI/USDT",
       "USDC/USDT",
-      "ZEC/USDT",
+      "SPACE/USDT",
       "LINK/USDT",
       "LTC/USDT"
     ]
