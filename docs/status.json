@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T04:52:42+00:00",
+  "updated_at": "2026-02-05T05:59:46+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,15 +27,15 @@
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 162,
-    "fail_volume": 1,
+    "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
       "BTC/USDT",
       "ETH/USDT",
-      "SOL/USDT",
       "XRP/USDT",
+      "SOL/USDT",
       "XMR/USDT",
       "TRIA/USDT",
       "HYPE/USDT",
