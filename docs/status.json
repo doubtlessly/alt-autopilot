@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-06T16:00:23+00:00",
+  "updated_at": "2026-02-06T17:00:14+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,7 +24,7 @@
     "scanned": 179,
     "fail_atr": 4,
     "fail_structure": 3,
-    "fail_expansion": 3,
+    "fail_expansion": 2,
     "fail_trigger": 3,
     "fail_market_regime": 169,
     "fail_volume": 0,
@@ -40,10 +40,10 @@
       "HYPE/USDT",
       "USDC/USDT",
       "DOGE/USDT",
-      "SUI/USDT",
       "ZEC/USDT",
-      "LTC/USDT",
-      "ADA/USDT"
+      "SUI/USDT",
+      "ADA/USDT",
+      "LTC/USDT"
     ]
   }
 }
