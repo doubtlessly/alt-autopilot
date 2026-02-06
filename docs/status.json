@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-06T23:02:06+00:00",
+  "updated_at": "2026-02-06T23:38:30+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 3,
     "fail_trigger": 3,
     "fail_market_regime": 168,
-    "fail_volume": 2,
+    "fail_volume": 1,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -39,8 +39,8 @@
       "XMR/USDT",
       "HYPE/USDT",
       "DOGE/USDT",
-      "ZEC/USDT",
       "USDC/USDT",
+      "ZEC/USDT",
       "SHIB/USDT",
       "LTC/USDT",
       "SUI/USDT"
