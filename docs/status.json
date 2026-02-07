@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-07T02:47:43+00:00",
+  "updated_at": "2026-02-07T04:24:01+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,11 +24,11 @@
     "scanned": 178,
     "fail_atr": 3,
     "fail_structure": 2,
-    "fail_expansion": 4,
-    "fail_trigger": 4,
+    "fail_expansion": 5,
+    "fail_trigger": 5,
     "fail_market_regime": 168,
     "fail_volume": 2,
-    "fail_rsi": 0,
+    "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -38,8 +38,8 @@
       "SOL/USDT",
       "XMR/USDT",
       "HYPE/USDT",
-      "USDC/USDT",
       "SHIB/USDT",
+      "USDC/USDT",
       "DOGE/USDT",
       "SUI/USDT",
       "LTC/USDT",
