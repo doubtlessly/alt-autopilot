@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-08T19:59:07+00:00",
+  "updated_at": "2026-02-08T20:36:52+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 6,
     "fail_trigger": 6,
     "fail_market_regime": 166,
-    "fail_volume": 0,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -39,8 +39,8 @@
       "XMR/USDT",
       "HYPE/USDT",
       "SHIB/USDT",
-      "SIREN/USDT",
       "LTC/USDT",
+      "SIREN/USDT",
       "WARD/USDT",
       "ATA/USDT",
       "SUI/USDT"
