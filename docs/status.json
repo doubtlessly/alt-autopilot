@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-08T10:33:53+00:00",
+  "updated_at": "2026-02-08T11:03:41+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 179,
     "fail_atr": 5,
     "fail_structure": 3,
-    "fail_expansion": 7,
-    "fail_trigger": 7,
+    "fail_expansion": 5,
+    "fail_trigger": 5,
     "fail_market_regime": 164,
     "fail_volume": 1,
     "fail_rsi": 0,
@@ -43,7 +43,7 @@
       "LTC/USDT",
       "SUI/USDT",
       "AVAX/USDT",
-      "DOGE/USDT"
+      "BNB/USDT"
     ]
   }
 }
