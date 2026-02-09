@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-09T22:00:14+00:00",
+  "updated_at": "2026-02-09T22:51:18+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -42,8 +42,8 @@
       "USDC/USDT",
       "SUI/USDT",
       "WARD/USDT",
-      "ADA/USDT",
-      "LTC/USDT"
+      "LTC/USDT",
+      "ADA/USDT"
     ]
   }
 }
