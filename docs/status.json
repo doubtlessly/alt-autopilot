@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-10T04:09:49+00:00",
+  "updated_at": "2026-02-10T05:50:38+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -25,10 +25,10 @@
     "fail_atr": 5,
     "fail_structure": 6,
     "fail_expansion": 8,
-    "fail_trigger": 9,
-    "fail_market_regime": 158,
-    "fail_volume": 3,
-    "fail_rsi": 2,
+    "fail_trigger": 8,
+    "fail_market_regime": 159,
+    "fail_volume": 1,
+    "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -41,8 +41,8 @@
       "SHIB/USDT",
       "USDC/USDT",
       "LTC/USDT",
-      "WARD/USDT",
       "SUI/USDT",
+      "WARD/USDT",
       "ADA/USDT"
     ]
   }
