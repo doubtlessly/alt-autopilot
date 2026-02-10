@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-10T22:27:12+00:00",
+  "updated_at": "2026-02-10T23:11:36+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,8 +27,8 @@
     "fail_expansion": 10,
     "fail_trigger": 10,
     "fail_market_regime": 156,
-    "fail_volume": 3,
-    "fail_rsi": 1,
+    "fail_volume": 2,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -42,7 +42,7 @@
       "USDC/USDT",
       "LTC/USDT",
       "WARD/USDT",
-      "AVAX/USDT",
+      "ZRO/USDT",
       "TRIA/USDT"
     ]
   }
