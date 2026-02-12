@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-12T21:38:45+00:00",
+  "updated_at": "2026-02-12T22:05:40+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -41,9 +41,9 @@
       "HYPE/USDT",
       "SUI/USDT",
       "WARD/USDT",
-      "BERA/USDT",
       "SHIB/USDT",
-      "MOVA/USDT"
+      "MOVA/USDT",
+      "USDC/USDT"
     ]
   }
 }
