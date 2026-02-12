@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-12T22:05:40+00:00",
+  "updated_at": "2026-02-12T22:52:09+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 12,
     "fail_trigger": 12,
     "fail_market_regime": 162,
-    "fail_volume": 6,
+    "fail_volume": 4,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "SUI/USDT",
       "WARD/USDT",
       "SHIB/USDT",
-      "MOVA/USDT",
-      "USDC/USDT"
+      "USDC/USDT",
+      "MOVA/USDT"
     ]
   }
 }
