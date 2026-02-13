@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-13T14:10:37+00:00",
+  "updated_at": "2026-02-13T15:03:58+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 177,
     "fail_atr": 5,
-    "fail_structure": 3,
-    "fail_expansion": 8,
-    "fail_trigger": 9,
+    "fail_structure": 2,
+    "fail_expansion": 9,
+    "fail_trigger": 10,
     "fail_market_regime": 160,
     "fail_volume": 1,
     "fail_rsi": 0,
@@ -43,7 +43,7 @@
       "SUI/USDT",
       "USDC/USDT",
       "ATA/USDT",
-      "WARD/USDT"
+      "LTC/USDT"
     ]
   }
 }
