@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T15:01:26+00:00",
+  "updated_at": "2026-02-14T15:37:59+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 181,
     "fail_atr": 4,
-    "fail_structure": 2,
-    "fail_expansion": 7,
-    "fail_trigger": 7,
+    "fail_structure": 1,
+    "fail_expansion": 10,
+    "fail_trigger": 10,
     "fail_market_regime": 166,
     "fail_volume": 2,
     "fail_rsi": 0,
@@ -42,8 +42,8 @@
       "WARD/USDT",
       "9BIT/USDT",
       "ZEC/USDT",
-      "SHIB/USDT",
-      "MOVA/USDT"
+      "MOVA/USDT",
+      "SHIB/USDT"
     ]
   }
 }
