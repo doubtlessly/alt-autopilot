@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T21:36:34+00:00",
+  "updated_at": "2026-02-14T21:59:28+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 8,
     "fail_trigger": 8,
     "fail_market_regime": 166,
-    "fail_volume": 4,
+    "fail_volume": 3,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -38,8 +38,8 @@
       "SOL/USDT",
       "ESP/USDT",
       "XMR/USDT",
-      "SHIB/USDT",
       "ZEC/USDT",
+      "SHIB/USDT",
       "9BIT/USDT",
       "WARD/USDT",
       "HYPE/USDT",
