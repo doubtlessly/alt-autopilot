@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T11:29:06+00:00",
+  "updated_at": "2026-02-14T11:49:51+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 10,
     "fail_trigger": 10,
     "fail_market_regime": 166,
-    "fail_volume": 2,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "XMR/USDT",
       "HYPE/USDT",
       "WARD/USDT",
-      "SHIB/USDT",
       "9BIT/USDT",
+      "SHIB/USDT",
       "MOVA/USDT",
       "BNKR/USDT"
     ]
