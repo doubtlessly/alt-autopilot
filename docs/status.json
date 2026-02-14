@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T18:01:46+00:00",
+  "updated_at": "2026-02-14T18:52:10+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 181,
     "fail_atr": 5,
     "fail_structure": 4,
-    "fail_expansion": 6,
-    "fail_trigger": 6,
-    "fail_market_regime": 166,
+    "fail_expansion": 8,
+    "fail_trigger": 8,
+    "fail_market_regime": 164,
     "fail_volume": 3,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -40,10 +40,10 @@
       "XMR/USDT",
       "SHIB/USDT",
       "9BIT/USDT",
-      "HYPE/USDT",
       "WARD/USDT",
-      "MOVA/USDT",
-      "TAO/USDT"
+      "HYPE/USDT",
+      "TAO/USDT",
+      "MOVA/USDT"
     ]
   }
 }
