@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T20:33:24+00:00",
+  "updated_at": "2026-02-14T21:01:07+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -39,10 +39,10 @@
       "ESP/USDT",
       "XMR/USDT",
       "SHIB/USDT",
-      "9BIT/USDT",
       "ZEC/USDT",
-      "HYPE/USDT",
+      "9BIT/USDT",
       "WARD/USDT",
+      "HYPE/USDT",
       "TAO/USDT"
     ]
   }
