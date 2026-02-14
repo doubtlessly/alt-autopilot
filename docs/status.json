@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T17:06:12+00:00",
+  "updated_at": "2026-02-14T17:45:49+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,13 +21,13 @@
   "stats": {
     "symbols_total": 940,
     "universe_size": 200,
-    "scanned": 181,
+    "scanned": 182,
     "fail_atr": 5,
     "fail_structure": 4,
-    "fail_expansion": 6,
-    "fail_trigger": 6,
-    "fail_market_regime": 166,
-    "fail_volume": 4,
+    "fail_expansion": 5,
+    "fail_trigger": 5,
+    "fail_market_regime": 167,
+    "fail_volume": 3,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -38,10 +38,10 @@
       "SOL/USDT",
       "ESP/USDT",
       "XMR/USDT",
-      "9BIT/USDT",
-      "HYPE/USDT",
-      "WARD/USDT",
       "SHIB/USDT",
+      "9BIT/USDT",
+      "WARD/USDT",
+      "HYPE/USDT",
       "MOVA/USDT",
       "BNKR/USDT"
     ]
