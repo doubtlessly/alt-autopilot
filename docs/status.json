@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-16T14:32:01+00:00",
+  "updated_at": "2026-02-16T15:24:54+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 180,
     "fail_atr": 4,
     "fail_structure": 1,
-    "fail_expansion": 9,
-    "fail_trigger": 9,
-    "fail_market_regime": 166,
+    "fail_expansion": 10,
+    "fail_trigger": 10,
+    "fail_market_regime": 165,
     "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -43,7 +43,7 @@
       "ATA/USDT",
       "HYPE/USDT",
       "INIT/USDT",
-      "ZEC/USDT"
+      "ADA/USDT"
     ]
   }
 }
