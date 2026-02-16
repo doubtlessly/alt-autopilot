@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-16T09:34:15+00:00",
+  "updated_at": "2026-02-16T10:36:06+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 10,
     "fail_trigger": 10,
     "fail_market_regime": 166,
-    "fail_volume": 2,
+    "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -39,10 +39,10 @@
       "SUI/USDT",
       "XMR/USDT",
       "SHIB/USDT",
-      "HYPE/USDT",
-      "DOGE/USDT",
       "TAO/USDT",
+      "HYPE/USDT",
       "ATA/USDT",
+      "DOGE/USDT",
       "ZEC/USDT"
     ]
   }
