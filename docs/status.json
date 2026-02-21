@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-21T06:26:51+00:00",
+  "updated_at": "2026-02-21T07:10:05+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,11 +24,11 @@
     "scanned": 180,
     "fail_atr": 3,
     "fail_structure": 6,
-    "fail_expansion": 9,
-    "fail_trigger": 9,
+    "fail_expansion": 10,
+    "fail_trigger": 10,
     "fail_market_regime": 161,
-    "fail_volume": 2,
-    "fail_rsi": 1,
+    "fail_volume": 3,
+    "fail_rsi": 2,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -38,8 +38,8 @@
       "SOL/USDT",
       "XMR/USDT",
       "AZTEC/USDT",
-      "BNKR/USDT",
       "USDC/USDT",
+      "BNKR/USDT",
       "UP/USDT",
       "HYPE/USDT",
       "AVAX/USDT",
