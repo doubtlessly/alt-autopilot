@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T08:02:18+00:00",
+  "updated_at": "2026-02-24T09:03:46+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 179,
     "fail_atr": 2,
-    "fail_structure": 8,
+    "fail_structure": 9,
     "fail_expansion": 4,
     "fail_trigger": 4,
-    "fail_market_regime": 165,
+    "fail_market_regime": 164,
     "fail_volume": 1,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -42,8 +42,8 @@
       "LINK/USDT",
       "AAVE/USDT",
       "USDC/USDT",
-      "HYPE/USDT",
-      "BNKR/USDT"
+      "BNKR/USDT",
+      "HYPE/USDT"
     ]
   }
 }
