@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-23T23:50:05+00:00",
+  "updated_at": "2026-02-24T02:30:15+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -37,13 +37,13 @@
       "XRP/USDT",
       "SOL/USDT",
       "XMR/USDT",
+      "DOT/USDT",
       "AVAX/USDT",
       "USDC/USDT",
-      "HYPE/USDT",
-      "DOT/USDT",
-      "BNKR/USDT",
       "LINK/USDT",
-      "AAVE/USDT"
+      "HYPE/USDT",
+      "AAVE/USDT",
+      "BNKR/USDT"
     ]
   }
 }
