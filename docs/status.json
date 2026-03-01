@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-01T20:33:09+00:00",
+  "updated_at": "2026-03-01T20:59:43+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -40,10 +40,10 @@
       "AVAX/USDT",
       "DOT/USDT",
       "DOGE/USDT",
-      "SUI/USDT",
       "LINK/USDT",
       "HYPE/USDT",
-      "AAVE/USDT"
+      "AAVE/USDT",
+      "SUI/USDT"
     ]
   }
 }
