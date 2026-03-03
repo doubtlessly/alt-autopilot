@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03T10:02:46+00:00",
+  "updated_at": "2026-03-03T11:02:17+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,7 +24,7 @@
     "scanned": 185,
     "fail_atr": 2,
     "fail_structure": 3,
-    "fail_expansion": 13,
+    "fail_expansion": 12,
     "fail_trigger": 13,
     "fail_market_regime": 167,
     "fail_volume": 2,
@@ -37,8 +37,8 @@
       "XRP/USDT",
       "SOL/USDT",
       "XMR/USDT",
-      "DOGE/USDT",
       "NEAR/USDT",
+      "DOGE/USDT",
       "DOT/USDT",
       "SUI/USDT",
       "LINK/USDT",
