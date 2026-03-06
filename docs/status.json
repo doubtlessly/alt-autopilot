@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06T21:46:15+00:00",
+  "updated_at": "2026-03-06T22:03:17+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,8 +27,8 @@
     "fail_expansion": 8,
     "fail_trigger": 8,
     "fail_market_regime": 161,
-    "fail_volume": 2,
-    "fail_rsi": 1,
+    "fail_volume": 5,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -41,8 +41,8 @@
       "LINK/USDT",
       "USDC/USDT",
       "SHIB/USDT",
-      "AAVE/USDT",
       "GF/USDT",
+      "AAVE/USDT",
       "ZEC/USDT"
     ]
   }
