@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-07T08:41:35+00:00",
+  "updated_at": "2026-03-07T09:04:37+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 180,
     "fail_atr": 4,
-    "fail_structure": 8,
+    "fail_structure": 9,
     "fail_expansion": 6,
-    "fail_trigger": 7,
+    "fail_trigger": 6,
     "fail_market_regime": 161,
     "fail_volume": 1,
     "fail_rsi": 0,
@@ -40,8 +40,8 @@
       "DOT/USDT",
       "LINK/USDT",
       "AVAX/USDT",
-      "SHIB/USDT",
       "GF/USDT",
+      "SHIB/USDT",
       "AAVE/USDT",
       "USDC/USDT"
     ]
