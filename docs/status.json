@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-08T06:07:40+00:00",
+  "updated_at": "2026-03-08T07:03:52+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,8 +22,8 @@
     "symbols_total": 938,
     "universe_size": 200,
     "scanned": 178,
-    "fail_atr": 4,
-    "fail_structure": 5,
+    "fail_atr": 3,
+    "fail_structure": 6,
     "fail_expansion": 11,
     "fail_trigger": 11,
     "fail_market_regime": 158,
@@ -38,8 +38,8 @@
       "SOL/USDT",
       "XMR/USDT",
       "DOT/USDT",
-      "ZEC/USDT",
       "LINK/USDT",
+      "ZEC/USDT",
       "TAO/USDT",
       "AVAX/USDT",
       "USDC/USDT",
