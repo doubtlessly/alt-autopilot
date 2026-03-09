@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-09T06:45:44+00:00",
+  "updated_at": "2026-03-09T07:42:59+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,11 +21,11 @@
   "stats": {
     "symbols_total": 938,
     "universe_size": 200,
-    "scanned": 182,
+    "scanned": 183,
     "fail_atr": 0,
     "fail_structure": 5,
-    "fail_expansion": 12,
-    "fail_trigger": 12,
+    "fail_expansion": 11,
+    "fail_trigger": 11,
     "fail_market_regime": 164,
     "fail_volume": 2,
     "fail_rsi": 1,
@@ -39,10 +39,10 @@
       "XMR/USDT",
       "DOT/USDT",
       "LINK/USDT",
-      "AVAX/USDT",
       "AAVE/USDT",
-      "SHIB/USDT",
+      "AVAX/USDT",
       "ADA/USDT",
+      "SHIB/USDT",
       "TAO/USDT"
     ]
   }
