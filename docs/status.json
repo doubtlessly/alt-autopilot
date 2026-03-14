@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T08:03:18+00:00",
+  "updated_at": "2026-03-14T08:54:56+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -21,13 +21,13 @@
   "stats": {
     "symbols_total": 940,
     "universe_size": 200,
-    "scanned": 182,
+    "scanned": 183,
     "fail_atr": 5,
-    "fail_structure": 9,
-    "fail_expansion": 13,
-    "fail_trigger": 13,
-    "fail_market_regime": 155,
-    "fail_volume": 4,
+    "fail_structure": 7,
+    "fail_expansion": 15,
+    "fail_trigger": 15,
+    "fail_market_regime": 156,
+    "fail_volume": 0,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -41,8 +41,8 @@
       "TAO/USDT",
       "TRUMP/USDT",
       "UNI/USDT",
-      "NEAR/USDT",
       "AVAX/USDT",
+      "NEAR/USDT",
       "ASTER/USDT"
     ]
   }
