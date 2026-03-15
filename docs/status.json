@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T22:41:57+00:00",
+  "updated_at": "2026-03-15T23:04:14+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -34,11 +34,11 @@
     "sample_universe": [
       "BTC/USDT",
       "ETH/USDT",
+      "XRP/USDT",
       "ZEC/USDT",
       "TAO/USDT",
-      "XRP/USDT",
-      "ASTER/USDT",
       "SOL/USDT",
+      "ASTER/USDT",
       "UNI/USDT",
       "XMR/USDT",
       "AVAX/USDT",
