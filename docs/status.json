@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T19:17:49+00:00",
+  "updated_at": "2026-03-19T19:57:51+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -38,8 +38,8 @@
       "DOT/USDT",
       "ZEC/USDT",
       "TAO/USDT",
-      "UNI/USDT",
       "SOL/USDT",
+      "UNI/USDT",
       "ASTER/USDT",
       "AAVE/USDT",
       "AVAX/USDT",
