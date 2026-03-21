@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T20:34:06+00:00",
+  "updated_at": "2026-03-21T21:02:20+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -42,8 +42,8 @@
       "AAVE/USDT",
       "KAT/USDT",
       "IAG/USDT",
-      "SHIB/USDT",
-      "XMR/USDT"
+      "XMR/USDT",
+      "SHIB/USDT"
     ]
   }
 }
