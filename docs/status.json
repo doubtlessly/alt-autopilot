@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T21:02:20+00:00",
+  "updated_at": "2026-03-21T21:36:51+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -25,9 +25,9 @@
     "fail_atr": 11,
     "fail_structure": 6,
     "fail_expansion": 15,
-    "fail_trigger": 15,
+    "fail_trigger": 16,
     "fail_market_regime": 158,
-    "fail_volume": 5,
+    "fail_volume": 8,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "AAVE/USDT",
       "KAT/USDT",
       "IAG/USDT",
-      "XMR/USDT",
-      "SHIB/USDT"
+      "SHIB/USDT",
+      "XMR/USDT"
     ]
   }
 }
