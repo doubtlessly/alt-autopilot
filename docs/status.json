@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T23:03:16+00:00",
+  "updated_at": "2026-03-22T23:47:09+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 13,
     "fail_trigger": 13,
     "fail_market_regime": 154,
-    "fail_volume": 3,
+    "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -40,8 +40,8 @@
       "ASTER/USDT",
       "SOL/USDT",
       "TAO/USDT",
-      "DOT/USDT",
       "AAVE/USDT",
+      "DOT/USDT",
       "XMR/USDT",
       "BNB/USDT"
     ]
