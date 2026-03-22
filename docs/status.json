@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T09:50:51+00:00",
+  "updated_at": "2026-03-22T10:33:11+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,9 +24,9 @@
     "scanned": 192,
     "fail_atr": 5,
     "fail_structure": 16,
-    "fail_expansion": 12,
+    "fail_expansion": 13,
     "fail_trigger": 13,
-    "fail_market_regime": 157,
+    "fail_market_regime": 158,
     "fail_volume": 1,
     "fail_rsi": 1,
     "passed_signals": 0,
@@ -39,8 +39,8 @@
       "TAO/USDT",
       "XRP/USDT",
       "DOT/USDT",
-      "AAVE/USDT",
       "UNI/USDT",
+      "AAVE/USDT",
       "SOL/USDT",
       "XMR/USDT",
       "AVAX/USDT"
