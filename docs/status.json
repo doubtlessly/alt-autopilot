@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T19:06:16+00:00",
+  "updated_at": "2026-04-05T19:51:31+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,8 +22,8 @@
     "symbols_total": 930,
     "universe_size": 200,
     "scanned": 190,
-    "fail_atr": 6,
-    "fail_structure": 8,
+    "fail_atr": 5,
+    "fail_structure": 9,
     "fail_expansion": 13,
     "fail_trigger": 13,
     "fail_market_regime": 163,
@@ -37,13 +37,13 @@
       "XRP/USDT",
       "NEAR/USDT",
       "WMTX/USDT",
-      "PRL/USDT",
       "NIGHT/USDT",
-      "XMR/USDT",
+      "PRL/USDT",
       "DOT/USDT",
-      "SOL/USDT",
+      "XMR/USDT",
       "TAO/USDT",
-      "BASED/USDT"
+      "BASED/USDT",
+      "SOL/USDT"
     ]
   }
 }
