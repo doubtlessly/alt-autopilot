@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T02:48:05+00:00",
+  "updated_at": "2026-04-07T05:03:10+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,11 +22,11 @@
     "symbols_total": 930,
     "universe_size": 200,
     "scanned": 189,
-    "fail_atr": 3,
-    "fail_structure": 11,
-    "fail_expansion": 15,
-    "fail_trigger": 15,
-    "fail_market_regime": 160,
+    "fail_atr": 2,
+    "fail_structure": 12,
+    "fail_expansion": 14,
+    "fail_trigger": 14,
+    "fail_market_regime": 161,
     "fail_volume": 3,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -39,10 +39,10 @@
       "XMR/USDT",
       "IAG/USDT",
       "WMTX/USDT",
-      "BASED/USDT",
       "ATOM/USDT",
       "TAO/USDT",
-      "ION/USDT",
+      "BASED/USDT",
+      "ZEC/USDT",
       "PRL/USDT"
     ]
   }
