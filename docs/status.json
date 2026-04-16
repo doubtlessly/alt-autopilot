@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T22:02:43+00:00",
+  "updated_at": "2026-04-16T22:58:43+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,12 +22,12 @@
     "symbols_total": 906,
     "universe_size": 200,
     "scanned": 193,
-    "fail_atr": 4,
+    "fail_atr": 3,
     "fail_structure": 15,
     "fail_expansion": 32,
     "fail_trigger": 32,
     "fail_market_regime": 141,
-    "fail_volume": 12,
+    "fail_volume": 7,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -43,7 +43,7 @@
       "XMR/USDT",
       "AAVE/USDT",
       "UNI/USDT",
-      "PEPE/USDT"
+      "FIL/USDT"
     ]
   }
 }
