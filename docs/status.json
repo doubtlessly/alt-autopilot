@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T20:39:43+00:00",
+  "updated_at": "2026-04-22T21:39:41+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,18 +22,18 @@
     "symbols_total": 906,
     "universe_size": 200,
     "scanned": 192,
-    "fail_atr": 13,
-    "fail_structure": 11,
-    "fail_expansion": 42,
-    "fail_trigger": 42,
+    "fail_atr": 12,
+    "fail_structure": 10,
+    "fail_expansion": 41,
+    "fail_trigger": 41,
     "fail_market_regime": 126,
-    "fail_volume": 16,
-    "fail_rsi": 3,
+    "fail_volume": 13,
+    "fail_rsi": 2,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
-      "ETH/USDT",
       "BTC/USDT",
+      "ETH/USDT",
       "XRP/USDT",
       "XMR/USDT",
       "DOT/USDT",
