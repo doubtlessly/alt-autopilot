@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T22:45:02+00:00",
+  "updated_at": "2026-05-25T23:49:20+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,12 +23,12 @@
     "universe_size": 200,
     "scanned": 182,
     "fail_atr": 12,
-    "fail_structure": 13,
+    "fail_structure": 14,
     "fail_expansion": 36,
     "fail_trigger": 36,
-    "fail_market_regime": 121,
-    "fail_volume": 9,
-    "fail_rsi": 4,
+    "fail_market_regime": 120,
+    "fail_volume": 12,
+    "fail_rsi": 3,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
