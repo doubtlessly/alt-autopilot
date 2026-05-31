@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T17:34:37+00:00",
+  "updated_at": "2026-05-31T18:53:10+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 179,
     "fail_atr": 4,
-    "fail_structure": 13,
-    "fail_expansion": 31,
-    "fail_trigger": 31,
+    "fail_structure": 14,
+    "fail_expansion": 28,
+    "fail_trigger": 28,
     "fail_market_regime": 131,
     "fail_volume": 2,
     "fail_rsi": 1,
@@ -42,8 +42,8 @@
       "AAVE/USDT",
       "TON/USDT",
       "XLM/USDT",
-      "LAB/USDT",
-      "BNB/USDT"
+      "BNB/USDT",
+      "LAB/USDT"
     ]
   }
 }
