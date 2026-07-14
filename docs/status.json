@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T14:27:21+00:00",
+  "updated_at": "2026-07-14T16:00:21+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,8 +24,8 @@
     "scanned": 185,
     "fail_atr": 6,
     "fail_structure": 11,
-    "fail_expansion": 12,
-    "fail_trigger": 13,
+    "fail_expansion": 11,
+    "fail_trigger": 11,
     "fail_market_regime": 155,
     "fail_volume": 0,
     "fail_rsi": 1,
@@ -35,8 +35,8 @@
       "BTC/USDT",
       "ETH/USDT",
       "XMR/USDT",
-      "LAB/USDT",
       "ZEC/USDT",
+      "LAB/USDT",
       "NEAR/USDT",
       "SOL/USDT",
       "USDC/USDT",
