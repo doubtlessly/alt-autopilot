@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T18:43:17+00:00",
+  "updated_at": "2026-07-16T19:48:43+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,10 +24,10 @@
     "scanned": 183,
     "fail_atr": 3,
     "fail_structure": 10,
-    "fail_expansion": 16,
+    "fail_expansion": 13,
     "fail_trigger": 16,
-    "fail_market_regime": 153,
-    "fail_volume": 0,
+    "fail_market_regime": 154,
+    "fail_volume": 2,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "AAVE/USDT",
       "SOL/USDT",
       "LAB/USDT",
-      "USDC/USDT",
-      "TAO/USDT"
+      "TAO/USDT",
+      "USDC/USDT"
     ]
   }
 }
