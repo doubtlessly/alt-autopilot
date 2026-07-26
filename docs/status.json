@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T18:36:52+00:00",
+  "updated_at": "2026-07-26T19:56:21+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,9 +23,9 @@
     "universe_size": 200,
     "scanned": 184,
     "fail_atr": 10,
-    "fail_structure": 7,
-    "fail_expansion": 17,
-    "fail_trigger": 18,
+    "fail_structure": 6,
+    "fail_expansion": 19,
+    "fail_trigger": 19,
     "fail_market_regime": 148,
     "fail_volume": 5,
     "fail_rsi": 1,
@@ -37,10 +37,10 @@
       "SHIB/USDT",
       "XMR/USDT",
       "ZEC/USDT",
-      "LTC/USDT",
       "UNI/USDT",
-      "PEPE/USDT",
+      "LTC/USDT",
       "AAVE/USDT",
+      "PEPE/USDT",
       "TAO/USDT",
       "DEXE/USDT",
       "SOL/USDT"
