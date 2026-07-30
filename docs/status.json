@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T17:03:20+00:00",
+  "updated_at": "2026-07-30T18:48:59+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,26 +24,26 @@
     "scanned": 181,
     "fail_atr": 9,
     "fail_structure": 7,
-    "fail_expansion": 17,
-    "fail_trigger": 17,
-    "fail_market_regime": 148,
+    "fail_expansion": 19,
+    "fail_trigger": 19,
+    "fail_market_regime": 146,
     "fail_volume": 4,
-    "fail_rsi": 1,
+    "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
       "BTC/USDT",
       "ETH/USDT",
-      "XRP/USDT",
       "AAVE/USDT",
+      "XRP/USDT",
       "UNI/USDT",
       "XMR/USDT",
       "NEAR/USDT",
       "ZEC/USDT",
+      "GRVT/USDT",
       "TAO/USDT",
       "ASTER/USDT",
-      "LINK/USDT",
-      "USDC/USDT"
+      "LINK/USDT"
     ]
   }
 }
