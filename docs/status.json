@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T15:25:42+00:00",
+  "updated_at": "2026-07-30T17:03:20+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -22,12 +22,12 @@
     "symbols_total": 849,
     "universe_size": 200,
     "scanned": 181,
-    "fail_atr": 10,
-    "fail_structure": 6,
-    "fail_expansion": 19,
-    "fail_trigger": 19,
-    "fail_market_regime": 146,
-    "fail_volume": 5,
+    "fail_atr": 9,
+    "fail_structure": 7,
+    "fail_expansion": 17,
+    "fail_trigger": 17,
+    "fail_market_regime": 148,
+    "fail_volume": 4,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -43,7 +43,7 @@
       "TAO/USDT",
       "ASTER/USDT",
       "LINK/USDT",
-      "SOL/USDT"
+      "USDC/USDT"
     ]
   }
 }
