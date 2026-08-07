@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T17:02:20+00:00",
+  "updated_at": "2026-08-07T17:58:00+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -24,11 +24,11 @@
     "scanned": 187,
     "fail_atr": 12,
     "fail_structure": 14,
-    "fail_expansion": 19,
-    "fail_trigger": 19,
-    "fail_market_regime": 142,
-    "fail_volume": 1,
-    "fail_rsi": 1,
+    "fail_expansion": 18,
+    "fail_trigger": 18,
+    "fail_market_regime": 141,
+    "fail_volume": 2,
+    "fail_rsi": 3,
     "passed_signals": 0,
     "passed_watch": 0,
     "sample_universe": [
@@ -42,8 +42,8 @@
       "UNI/USDT",
       "USDC/USDT",
       "AAVE/USDT",
-      "PIEVERSE/USDT",
-      "SOL/USDT"
+      "SOL/USDT",
+      "PIEVERSE/USDT"
     ]
   }
 }
