@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:15:38+00:00",
+  "updated_at": "2026-08-09T11:49:31+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -25,9 +25,9 @@
     "fail_atr": 20,
     "fail_structure": 10,
     "fail_expansion": 22,
-    "fail_trigger": 22,
-    "fail_market_regime": 132,
-    "fail_volume": 6,
+    "fail_trigger": 23,
+    "fail_market_regime": 131,
+    "fail_volume": 3,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -42,8 +42,8 @@
       "TUT/USDT",
       "AAVE/USDT",
       "UNI/USDT",
-      "PIEVERSE/USDT",
-      "AEON/USDT"
+      "AEON/USDT",
+      "PIEVERSE/USDT"
     ]
   }
 }
