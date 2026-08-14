@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T20:17:30+00:00",
+  "updated_at": "2026-08-14T20:51:32+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -23,10 +23,10 @@
     "universe_size": 200,
     "scanned": 183,
     "fail_atr": 15,
-    "fail_structure": 7,
+    "fail_structure": 6,
     "fail_expansion": 20,
     "fail_trigger": 20,
-    "fail_market_regime": 140,
+    "fail_market_regime": 141,
     "fail_volume": 6,
     "fail_rsi": 0,
     "passed_signals": 0,
@@ -41,8 +41,8 @@
       "USDC/USDT",
       "AAVE/USDT",
       "NEAR/USDT",
-      "LINK/USDT",
       "KII/USDT",
+      "LINK/USDT",
       "XRP/USDT"
     ]
   }
