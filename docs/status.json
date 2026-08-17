@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:44:21+00:00",
+  "updated_at": "2026-08-17T22:03:51+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -27,7 +27,7 @@
     "fail_expansion": 17,
     "fail_trigger": 17,
     "fail_market_regime": 143,
-    "fail_volume": 6,
+    "fail_volume": 7,
     "fail_rsi": 1,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -39,8 +39,8 @@
       "UNI/USDT",
       "KII/USDT",
       "XRP/USDT",
-      "TAO/USDT",
       "NEAR/USDT",
+      "TAO/USDT",
       "ASTER/USDT",
       "LINK/USDT",
       "SOL/USDT"
