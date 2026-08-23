@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T08:38:27+00:00",
+  "updated_at": "2026-08-23T09:06:21+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -25,9 +25,9 @@
     "fail_atr": 13,
     "fail_structure": 17,
     "fail_expansion": 55,
-    "fail_trigger": 56,
+    "fail_trigger": 55,
     "fail_market_regime": 97,
-    "fail_volume": 10,
+    "fail_volume": 16,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -37,8 +37,8 @@
       "ETH/USDT",
       "DOGE/USDT",
       "XMR/USDT",
-      "ZEC/USDT",
       "SOL/USDT",
+      "ZEC/USDT",
       "PEPE/USDT",
       "ASTER/USDT",
       "NEAR/USDT",
