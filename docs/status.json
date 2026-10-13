@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:02:01+00:00",
+  "updated_at": "2026-10-13T07:39:26+00:00",
   "config": {
     "top_n_by_vol": 200,
     "atr_band": [
@@ -19,15 +19,15 @@
     "rsi_divergence_lookback": 20
   },
   "stats": {
-    "symbols_total": 814,
+    "symbols_total": 815,
     "universe_size": 200,
-    "scanned": 176,
+    "scanned": 175,
     "fail_atr": 6,
-    "fail_structure": 41,
-    "fail_expansion": 30,
-    "fail_trigger": 30,
-    "fail_market_regime": 99,
-    "fail_volume": 5,
+    "fail_structure": 44,
+    "fail_expansion": 33,
+    "fail_trigger": 33,
+    "fail_market_regime": 92,
+    "fail_volume": 10,
     "fail_rsi": 0,
     "passed_signals": 0,
     "passed_watch": 0,
@@ -38,11 +38,11 @@
       "ZEC/USDT",
       "XMR/USDT",
       "TAO/USDT",
-      "SOL/USDT",
       "XRP/USDT",
+      "SOL/USDT",
       "USDC/USDT",
-      "SUI/USDT",
       "AAVE/USDT",
+      "LINK/USDT",
       "UNI/USDT"
     ]
   }
